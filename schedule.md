@@ -1,19 +1,20 @@
 ---
 layout: regular
 ---
-
- | Time | Event |
- |------|-------|
-| 7:30-8:45AM | Breakfast/Registration |
-| 8:45-9:00AM  | Welcoming Address |
-| 9:00-11:10AM | Presentations |
-| 11:15-11:45AM | Poster Session 1 |
-| 11:45 AM-12:45PM | Lunch/Informal poster viewing |
-| 12:45-1:15PM | Poster Session 2 |
-| 1:20-3:30PM | Presentations |
-| 3:30-4:00PM | Coffee Break |
-| 4:00-5:00PM | Keynote Speaker |
-| 5:00-6:00PM | Reception/Poster Awards |
- 
-
-
+| Time          | Event         |
+| ------------- |--------------:|
+| 8:00 a.m.       | Registration |
+| 8:45 a.m.       | Opening Remarks |
+| 9:00 a.m.       | First Talk | 
+| 9:45 a.m.       | Second Talk | 
+| 10:15 a.m.       | Coffee Break | 
+| 10:45 a.m.       | Third Talk | 
+| 11:30 a.m.       | Fourth Talk |
+| 12:15 p.m.       | Lunch Start |
+| 1:00 p.m.       | Lunch Ends | 
+| 1:00 p.m.       | Keynote Speaker | 
+| 2:00 p.m.       | Sixth Talk | 
+| 2:30 p.m.       | Seventh Talk | 
+| 3:00 p.m.       | Eight Talk | 
+| 3:30 p.m.       | Poster Viewing | 
+| 5 - 8:00 p.m.       | Night Social | 
