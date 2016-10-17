@@ -2,7 +2,7 @@
 layout: regular
 ---
 
-<img src="/img/sunflower.jpg" style="max-width:95%" /> 
+<img src="/img/sunflower.jpg" style="max-width:95%" height="200px"/> 
 
 <hr style="clear: both;" />
 
