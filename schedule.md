@@ -7,4 +7,5 @@ layout: regular
 <hr style="clear: both;" />
 
 Schedule
+<hr style="clear: both;" />
 <img src="/img/schedule2017.JPG" style="max-width:95%"/>
