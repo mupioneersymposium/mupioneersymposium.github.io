@@ -4,8 +4,8 @@ layout: regular
 
 Tentative schedule
 ---
-
-![Schedule](/img/portfolio/1.jpg)
+-->
+![Schedule]
 
 | Time | Event |
 |------|-------|
