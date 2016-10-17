@@ -22,7 +22,7 @@ Biography will go here.
 
 ### Dr. Diane Janick-Buckner, Truman State University, MO
 
-<img src="/img/jb2.jpg" alt="Dr. Diane Janick-Buckner" width="200px" style="float: left" /> 
+<img src="/img/jb2.JPG" alt="Dr. Diane Janick-Buckner" width="200px" style="float: left" /> 
 
 Biography will go here.
 
