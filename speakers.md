@@ -29,9 +29,9 @@ Biography will go here.
 
 <hr style="clear: both;" />
 
-### Dr. Gary Stacy, University of Missouri, MO
+### Dr. Gary Stacey, University of Missouri, MO
 
-<img src="/img/speaker3.jpeg" alt="Dr. Gary Stacy Photo" width="200px" style="float: left" /> 
+<img src="/img/speaker3.jpeg" alt="Dr. Gary Stacey Photo" width="200px" style="float: left" /> 
 
 Biography will go here.
 
