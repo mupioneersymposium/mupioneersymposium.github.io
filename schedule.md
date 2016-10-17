@@ -1,7 +1,7 @@
 ---
 layout: regular
 ---
-| Time          | Event         |
+|   Time          |   Event         |
 | :-------------: |:--------------:|
 | 8:00 a.m.       | Registration |
 | 8:45 a.m.       | Opening Remarks |
