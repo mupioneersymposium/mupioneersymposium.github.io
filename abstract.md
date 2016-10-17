@@ -5,6 +5,7 @@ layout: regular
 
 <img src="/posterview.jpg" width="1000px" style="float: center" /> 
 
+<hr style="clear: both;" />
 Rules
 ===
 
