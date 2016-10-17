@@ -2,7 +2,8 @@
 layout: regular
 ---
 
-## Speakers
+# Speakers
+<hr style="clear: both;" />
 
 ### Dr. David Jackson, Cold Spring Harbor Laboratory, NY
 
