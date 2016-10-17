@@ -20,9 +20,9 @@ Biography will go here.
 
 <hr style="clear: both;" />
 
-### Dr. Jack Schultz
+### Dr. Gary Stacy
 
-<img src="/img/speaker3.jpeg" alt="Dr. Jack Schultz Photo" width="200px" style="float: left" /> 
+<img src="/img/speaker3.jpeg" alt="Dr. Gary Stacy Photo" width="200px" style="float: left" /> 
 
 Biography will go here.
 
