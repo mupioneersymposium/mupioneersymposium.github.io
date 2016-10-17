@@ -1,7 +1,7 @@
 ---
 layout: regular
 ---
-(/img/schedule2017.JPG)
+[](/img/posterview.jpg)
 
 Rules
 ===
