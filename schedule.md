@@ -1,1 +1,1 @@
-[Schedule](/img/schedule2017.JPG)
+![Schedule](/img/schedule2017.JPG)
