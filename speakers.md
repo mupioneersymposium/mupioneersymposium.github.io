@@ -7,16 +7,32 @@ Speakers
 
 h3. Dr. David Jackson
 
-![Dr. David Jackson](/img/speaker1.jpeg)
+<img src="/img/speaker1.jpeg" alt="Dr. David Jackson Photo" width="200px" style="float: left" /> 
+
+Biography will go here.
+
+<hr style="clear: both;" />
 
 h3. Dr. Amit Sethi
 
-![Dr. Amit Sethi](/img/speaker2.png)
+<img src="/img/speaker2.png" alt="Dr. Amit Sethi Photo" width="200px" style="float: left" /> 
+
+Biography will go here.
+
+<hr style="clear: both;" />
 
 h3. Dr. Jack Schultz
 
-![Dr. Jack Schultz](/img/speaker3.jpeg)
+<img src="/img/speaker3.jpeg" alt="Dr. Jack Schultz Photo" width="200px" style="float: left" /> 
+
+Biography will go here.
+
+<hr style="clear: both;" />
 
 h3. David Chappel
 
-![David Chappel](/img/speaker4.jpeg)
+<img src="/img/speaker4.jpeg" alt="Dr. David Jackson Photo" width="200px" style="float: left" /> 
+
+Biography will go here.
+
+<hr style="clear: both;" />
