@@ -6,4 +6,5 @@ layout: regular
 
 <hr style="clear: both;" />
 
-![Schedule](/img/schedule2017.JPG style="max-width:95%")
+##Schedule
+<img src="/img/schedule2017.JPG" style="max-width:95%"/>
