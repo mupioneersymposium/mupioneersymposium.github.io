@@ -1,1 +1,7 @@
-![Schedule](mupioneersymposium.github.io/img/schedule2017.JPG)
+---
+layout: regular
+---
+
+
+
+![Schedule](/img/schedule2017.JPG)
