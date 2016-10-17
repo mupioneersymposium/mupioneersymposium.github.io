@@ -3,7 +3,7 @@ layout: regular
 ---
 
 
-<img src="/posterview.jpg" width="1000px" style="float: left" /> 
+<img src="/posterview.jpg" style="max-width:80%" " style="float: left/> 
 
 <hr style="clear: both;" />
 
