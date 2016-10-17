@@ -13,7 +13,7 @@ Biography will go here.
 
 <hr style="clear: both;" />
 
-### Dr. Amit Sethi, DuPont Pioneer
+### Dr. Amit Sethi, DuPont Pioneer, IA
 
 <img src="/img/speaker2.png" alt="Dr. Amit Sethi Photo" width="200px" style="float: left" /> 
 
