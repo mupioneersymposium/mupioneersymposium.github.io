@@ -4,7 +4,7 @@ layout: regular
 
 Tentative schedule
 ---
--->
+
 ![Schedule]
 
 | Time | Event |
