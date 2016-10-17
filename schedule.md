@@ -2,7 +2,7 @@
 layout: regular
 ---
 | Time          | Event         |
-| ------------- |--------------:|
+| ------------- |:--------------:|
 | 8:00 a.m.       | Registration |
 | 8:45 a.m.       | Opening Remarks |
 | 9:00 a.m.       | First Talk | 
