@@ -3,7 +3,7 @@ layout: regular
 ---
 
 Tentative Schedule
----
+|----|----|
 | 7:30-8:45AM  |Breakfast/Registration | 
 | 8:45-9:00AM  |Welcoming Address |
 | 9:00-11:10AM | Presentations |
