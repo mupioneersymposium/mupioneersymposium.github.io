@@ -5,6 +5,18 @@ layout: regular
 Speakers
 ---
 
-![Speakers](/img/portfolio/1.jpg)
+h3. Dr. David Jackson
 
-Speakers information is being updated. Please check back soon for more information.
+![Dr. David Jackson](/img/speaker1.jpeg)
+
+h3. Dr. Amit Sethi
+
+![Dr. Amit Sethi](/img/speaker2.png)
+
+h3. Dr. Jack Schultz
+
+![Dr. Jack Schultz](/img/speaker3.jpeg)
+
+h3. David Chappel
+
+![David Chappel](/img/speaker4.jpeg)
