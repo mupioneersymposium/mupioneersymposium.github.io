@@ -1,6 +1,7 @@
 ---
 layout: regular
 ---
+(/img/schedule2017.JPG)
 
 Rules
 ===
