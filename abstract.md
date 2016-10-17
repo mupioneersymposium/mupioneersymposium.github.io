@@ -1,7 +1,9 @@
 ---
 layout: regular
 ---
-![](/img/posterview.jpg)
+
+
+<img src="/posterview.jpg" width="1000px" style="float: left" /> 
 
 Rules
 ===
