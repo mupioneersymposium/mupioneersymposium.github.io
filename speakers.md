@@ -17,7 +17,8 @@ Biography will go here.
 
 <img src="/img/speaker2.png" alt="Dr. Amit Sethi Photo" width="200px" style="float: left" /> 
 
-Biography will go here.
+The Jackson Lab studies signals in cells that regulate growth and shape in plants. His lab has discovered several genes that control plant architecture by exerting influence on stem cells. In addition, the Jackson lab has created a collection of maize transgenic lines enabling the maize and broader community to do experiments never before possible in crop plants.
+
 
 <hr style="clear: both;" />
 
