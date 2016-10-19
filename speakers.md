@@ -38,9 +38,9 @@ Biography will go here.
 
 <hr style="clear: both;" />
 
-### David Chappel, University of Missouri, MO
+### David Chappell, Monsanto Company, MO
 
-<img src="/img/speaker4.jpeg" alt="Dr. David Jackson Photo" width="200px" style="float: left" /> 
+<img src="/img/davidC.JPG" alt="David Chappell Photo" width="200px" style="float: left" /> 
 
 Biography will go here.
 
