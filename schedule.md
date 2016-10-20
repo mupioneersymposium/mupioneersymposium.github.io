@@ -2,7 +2,7 @@
 layout: regular
 ---
 
-<img src="/img/column3.jpeg" style="max-width:95%"/> 
+<img src="/img/column3.jpg" style="max-width:95%"/> 
 
 <hr style="clear: both;" />
 
