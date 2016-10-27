@@ -18,6 +18,7 @@ The Jackson Lab studies signals in cells that regulate growth and shape in plant
 
 <img src="/img/speaker2.png" alt="Dr. Amit Sethi Photo" width="200px" style="float: left" /> 
 
+Dr. Sethi studies insect resistance at DuPont Pioneer. Specifically, Dr. Sethi is interested in alternate methods to control the termite Formosan subterranean.
 
 
 <hr style="clear: both;" />
@@ -26,7 +27,7 @@ The Jackson Lab studies signals in cells that regulate growth and shape in plant
 
 <img src="/img/jb2.JPG" alt="Dr. Diane Janick-Buckner" width="200px" style="float: left" /> 
 
-Biography will go here.
+Dr. Janick-Buckner is a professor of biological sciences at Truman State University. Her lab focuses on training undergraduate students to be independent researchers through course and lab work. Her research focuses on cellular and molecular analysis in maize.
 
 <hr style="clear: both;" />
 
@@ -34,7 +35,7 @@ Biography will go here.
 
 <img src="/img/speaker3.jpeg" alt="Dr. Gary Stacey Photo" width="200px" style="float: left" /> 
 
-Biography will go here.
+The Stacey Lab focuses on many different aspects of soybean biology including: understanding host-microbe interactions, specifically the symbiosis between a nitrogen fixing bacteria, Bradyrhizobium japonica and soybean, the role of extracellular ATP and peptide transport in plant growth and development, genomics, and biotechnology.
 
 <hr style="clear: both;" />
 
@@ -42,6 +43,6 @@ Biography will go here.
 
 <img src="/img/davidC.JPG" alt="David Chappell Photo" width="200px" style="float: left" /> 
 
-Biography will go here.
+David Chappell’s master’s research focuses on understanding the potential of using physiological traits as an indirect selection criteria for yield. In addition, David works with a wide array of plant pathogens in various crop species including powdery mildew in cucurbits and Septoria diseases in wheat.
 
 <hr style="clear: both;" />
