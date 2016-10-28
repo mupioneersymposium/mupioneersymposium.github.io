@@ -3,14 +3,7 @@ layout: regular
 ---
 ## Special Seminar Speaker on Feb 1st, 2017
 
-<hr class="type_7">
 
-hr.type_7 {
-border: 0;
-height: 55px;
-background-image: url(image/type_7.png);
-background-repeat: no-repeat;
-}
 
 ### Dr. Kevin Hayes, DuPont Pioneer, IA
 
