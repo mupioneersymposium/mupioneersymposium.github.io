@@ -18,4 +18,4 @@ If reusing a poster, it is encouraged to have an updated abstract since all abst
 
 If your work has appeared or will appear soon in publications of any format, remember to acknowledge the corresponding entities.
 
-<p><a href="https://easychair.org/conferences/?conf=muplnt2017" target="_blank" class="btn btn-primary btn-xl page-scroll">Submit your abstract</a></p>
+<p><a href="https://docs.google.com/forms/d/1DoqelMaDb3G1-tG3Tqr9EpXLK9OzPJ8J4OuMiPRZNrg/" target="_blank" class="btn btn-primary btn-xl page-scroll">Submit your abstract</a></p>
