@@ -1,8 +1,17 @@
 ---
 layout: regular
 ---
+# Special Seminar Speaker on Feb 1st, 2017
+<hr style="clear: both;" />
 
-# Speakers
+### Dr. Kevin Hayes, DuPont Pioneer, IA
+
+<img src="/img/kevinH.jpeg" alt="Dr. Kevin Hayes Photo" width="200px" style="float: left" /> 
+
+Dr. Hayes is a team leader for genomics operations and protein structure analysis at DuPont Pioneer. His research interests include: using informational database and high-throughput chemical genomics to correlate phenotypes to gene variations. And his role at DuPont Pioneer is to lead a team esponsible for the management, analysis and dissemination of Next Generation Sequencing (NGS) data. Including sample management, pipeline development and management, alignment, assembly and interpretation of RNAseq, WGS, miRNAseq, TSSseq, microarray and specialized NGS applications.
+
+<hr style="clear: both;" />
+# Speakers on Feb 2nd, 2017
 <hr style="clear: both;" />
 
 ### Dr. David Jackson, Cold Spring Harbor Laboratory, NY
