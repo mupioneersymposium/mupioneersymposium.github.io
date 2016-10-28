@@ -10,7 +10,7 @@ layout: regular
 # Rules
 ===
 
-## **Deadline: Jan/19/2017 at 11:59PM**
+## **Deadline: January 19th 2017 at 11:59PM**
 
 ### Abstracts for poster and or talk should be in line with the theme of the symposium, and therefore must address how ones research can at some point improve agriculture. 
 
