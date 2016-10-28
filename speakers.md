@@ -16,7 +16,7 @@ Dr. Hayes is a team leader for genomics operations and protein structure analysi
 
 ### Dr. David Jackson, Cold Spring Harbor Laboratory, NY
 
-<img src="/img/speaker1.jpeg" alt="Dr. David Jackson Photo" width="200px" style="float: left" /> 
+<img src="/img/speaker1.jpeg" alt="Dr. David Jackson Photo" width="150px" style="float: left" /> 
 
 The Jackson Lab studies signals in cells that regulate growth and shape in plants. His lab has discovered several genes that control plant architecture by exerting influence on stem cells. In addition, the Jackson lab has created a collection of maize transgenic lines enabling the maize and broader community to do experiments never before possible in crop plants.
 
@@ -25,7 +25,7 @@ The Jackson Lab studies signals in cells that regulate growth and shape in plant
 
 ### Dr. Amit Sethi, DuPont Pioneer, IA
 
-<img src="/img/speaker2.png" alt="Dr. Amit Sethi Photo" width="200px" style="float: left" /> 
+<img src="/img/speaker2.png" alt="Dr. Amit Sethi Photo" width="150px" style="float: left" /> 
 
 Dr. Sethi studies insect resistance at DuPont Pioneer. Specifically, He is interested in alternate methods to control the termite Formosan subterranean.
 
@@ -34,7 +34,7 @@ Dr. Sethi studies insect resistance at DuPont Pioneer. Specifically, He is inter
 
 ### Dr. Diane Janick-Buckner, Truman State University, MO
 
-<img src="/img/jb2.JPG" alt="Dr. Diane Janick-Buckner" width="200px" style="float: left" /> 
+<img src="/img/jb2.JPG" alt="Dr. Diane Janick-Buckner" width="150px" style="float: left" /> 
 
 Dr. Janick-Buckner is a professor of biological sciences at Truman State University. Her research focuses on cellular and molecular analysis in maize and most importantly, training undergraduate students to be independent researchers through course and lab work.
 
@@ -42,7 +42,7 @@ Dr. Janick-Buckner is a professor of biological sciences at Truman State Univers
 
 ### Dr. Gary Stacey, University of Missouri, MO
 
-<img src="/img/speaker3.jpeg" alt="Dr. Gary Stacey Photo" width="200px" style="float: left" /> 
+<img src="/img/speaker3.jpeg" alt="Dr. Gary Stacey Photo" width="150px" style="float: left" /> 
 
 The Stacey lab focuses on many different aspects of soybean biology including: understanding host-microbe interactions, specifically the symbiosis between a nitrogen fixing bacteria, Bradyrhizobium japonica and soybean, the role of extracellular ATP and peptide transport in plant growth and development, genomics, and biotechnology.
 
@@ -50,7 +50,7 @@ The Stacey lab focuses on many different aspects of soybean biology including: u
 
 ### David Chappell, Monsanto Company, MO
 
-<img src="/img/davidC.JPG" alt="David Chappell Photo" width="200px" style="float: left" /> 
+<img src="/img/davidC.JPG" alt="David Chappell Photo" width="150px" style="float: left" /> 
 
 David Chappell’s master’s research focuses on understanding the potential of using physiological traits as an indirect selection criteria for yield. In addition, David works with a wide array of plant pathogens in various crop species including powdery mildew in cucurbits and Septoria diseases in wheat.
 
