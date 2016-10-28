@@ -2,7 +2,22 @@
 layout: regular
 ---
 ## Special Seminar Speaker on Feb 1st, 2017
-<hr style="clear: both;" />
+hr.style-eight {
+    padding: 0;
+    border: none;
+    border-top: medium double #333;
+    color: #333;
+    text-align: center;
+}
+hr.style-eight:after {
+    content: "§";
+    display: inline-block;
+    position: relative;
+    top: -0.7em;
+    font-size: 1.5em;
+    padding: 0 0.25em;
+    background: white;
+}
 
 ### Dr. Kevin Hayes, DuPont Pioneer, IA
 
