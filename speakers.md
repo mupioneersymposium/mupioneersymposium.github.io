@@ -9,15 +9,6 @@ hr.style-eight {
     color: #333;
     text-align: center;
 }
-hr.style-eight:after {
-    content: "§";
-    display: inline-block;
-    position: relative;
-    top: -0.7em;
-    font-size: 1.5em;
-    padding: 0 0.25em;
-    background: white;
-}
 
 ### Dr. Kevin Hayes, DuPont Pioneer, IA
 
