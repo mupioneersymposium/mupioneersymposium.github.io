@@ -30,8 +30,7 @@ The Jackson Lab studies signals in cells that regulate growth and shape in plant
 
 <img src="/img/speaker2.png" alt="Dr. Amit Sethi Photo" width="150px" style="float: left" /> 
 
-Dr. Sethi studies insect resistance at DuPont Pioneer. Specifically, He is interested in alternate methods to control the termite Formosan subterranean.
-
+Dr. Sethi studies insect resistance at DuPont Pioneer. His research focuses on new technologies to control economically damaging agricultural pests like western corn rootworm.
 
 <hr style="clear: both;" />
 
