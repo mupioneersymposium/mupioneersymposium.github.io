@@ -10,12 +10,8 @@ layout: regular
 Rules
 ===
 
-**Deadline: **/**/**** at 11:59PM**
+**Deadline: Jan/19/2017 at 11:59PM**
 
-Please make sure to review and understand the short guidelines below before proceeding, as the terms have changed for the year 2016.
-
-If reusing a poster, it is encouraged to have an updated abstract since all abstracts will be published online. Please let us know if you do not want your abstract to be online.
-
-If your work has appeared or will appear soon in publications of any format, remember to acknowledge the corresponding entities.
+## Abstracts for poster and or talk should be in line with the theme of the symposium, and therefore must address how ones research can at some point improve agriculture. 
 
 <p><a href="https://docs.google.com/forms/d/1DoqelMaDb3G1-tG3Tqr9EpXLK9OzPJ8J4OuMiPRZNrg/" target="_blank" class="btn btn-primary btn-xl page-scroll">Submit your abstract</a></p>
