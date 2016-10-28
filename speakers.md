@@ -1,8 +1,10 @@
 ---
 layout: regular
 ---
-## Special Seminar Speaker on Feb 1st, 2017
 
+<hr style="clear: both;" />
+## Special Seminar Speaker on Feb 1st, 2017
+<hr style="clear: both;" />
 
 
 ### Dr. Kevin Hayes, DuPont Pioneer, IA
