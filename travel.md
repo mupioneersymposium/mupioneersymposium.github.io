@@ -6,7 +6,7 @@ layout: regular
 # Travel Awards 
 <hr style="clear: both;" />
 
-Travel are available for individuals wishing to present (oral or poster) at the symposium.
+Travel awards are available for individuals wishing to present (oral or poster) at the symposium.
 A total of 10 individuals may be selected for a travel award of $200 per recipient.
 Individuals will be selected based on their submitted abstract. 
 
