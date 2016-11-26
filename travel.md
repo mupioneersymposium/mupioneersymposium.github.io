@@ -7,7 +7,7 @@ layout: regular
 <hr style="clear: both;" />
 
 Travel awards are available for individuals wishing to present (oral or poster) at the symposium.
-A total of 10 individuals may be selected for a travel award of $200 per recipient.
+A total of 5 individuals may be selected for a travel award of $400 per recipient.
 Individuals will be selected based on their submitted abstract. 
 
 If you would like to be considered for a travel award, then please e-mail the committee with a copy of your abstract (indicate oral or poster) at mudupontpioneersymposium@gmail.com 
