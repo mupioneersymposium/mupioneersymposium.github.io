@@ -50,10 +50,10 @@ The Stacey lab focuses on many different aspects of soybean biology including: u
 
 <hr style="clear: both;" />
 
-### David Chappell, Monsanto Company, MO
+### Dr. Blake Meyers, Donald Danforth Plant Science Center, MO
 
-<img src="/img/davidC.JPG" alt="David Chappell Photo" width="150px" style="float: left" /> 
+<img src="/img/BlakeM.JPG" alt="Blake Meyers Photo" width="150px" style="float: left" /> 
 
-David Chappell’s master’s research focuses on understanding the potential of using physiological traits as an indirect selection criteria for yield. In addition, David works with a wide array of plant pathogens in various crop species including powdery mildew in cucurbits and Septoria diseases in wheat.
+Dr. Meyers's work focuses on genome-scale studies of RNA and components of RNA silencing pathways, with a recent emphasis on plant reproductive biology and the evolution of plant small RNAs. 
 
 <hr style="clear: both;" />
