@@ -50,7 +50,7 @@ The Stacey lab focuses on many different aspects of soybean biology including: u
 
 <hr style="clear: both;" />
 
-### Dr. Blake Meyers, Donald Danforth Plant Science Center, MO
+### Dr. Blake Meyers, University of Missouri, MO
 
 <img src="/img/BlakeM.JPG" alt="Blake Meyers Photo" width="150px" style="float: left" /> 
 
