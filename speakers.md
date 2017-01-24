@@ -59,7 +59,7 @@ Dr. Meyers's work focuses on genome-scale studies of RNA and components of RNA s
 <hr style="clear: both;" />
 
 <hr style="clear: both;" />
-## Best submitted abstract speakers on Feb 2nd, 2017
+## Best submitted abstract speakers
 <hr style="clear: both;" />
 
 ### Sunil Kumar, University of Nebraska Lincoln, NE
