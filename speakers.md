@@ -57,3 +57,35 @@ The Stacey lab focuses on many different aspects of soybean biology including: u
 Dr. Meyers's work focuses on genome-scale studies of RNA and components of RNA silencing pathways, with a recent emphasis on plant reproductive biology and the evolution of plant small RNAs. 
 
 <hr style="clear: both;" />
+
+<hr style="clear: both;" />
+## Best submitted abstract speakers on Feb 2nd, 2017
+<hr style="clear: both;" />
+
+### Sunil Kumar, University of Nebraska Lincoln, NE
+
+<img src="/img/jb2.JPG" alt="Dr. Diane Janick-Buckner" width="150px" style="float: left" /> 
+
+Abstract Title *
+An epigenetic breeding system in soybean for increased yield and stability
+
+<hr style="clear: both;" />
+
+### Amruta Narayanappa, University of Missouri, MO
+
+<img src="/img/speaker3.jpeg" alt="Dr. Gary Stacey Photo" width="150px" style="float: left" /> 
+
+Abstract Title *
+Selection and characterization of rice blast (Magnaporthe oryzae) suppressing antagonistic bacterial strains from the rhizosphere of rice
+
+<hr style="clear: both;" />
+
+### Stewart Gillmor, CINVESTAV, Mexico
+
+<img src="/img/BlakeM.JPG" alt="Blake Meyers Photo" width="150px" style="float: left" /> 
+
+Abstract Title *
+Zygotic genome activation in isogenic and hybrid embryos of Arabidopsis
+
+<hr style="clear: both;" />
+
