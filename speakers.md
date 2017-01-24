@@ -64,7 +64,7 @@ Dr. Meyers's work focuses on genome-scale studies of RNA and components of RNA s
 
 ### Sunil Kumar, University of Nebraska Lincoln, NE
 
-<img src="/img/jb2.JPG" alt="Dr. Diane Janick-Buckner" width="150px" style="float: left" /> 
+<img src="/img/sunil.jpg" alt="Dr. Diane Janick-Buckner" width="150px" style="float: left" /> 
 
 Abstract Title *
 An epigenetic breeding system in soybean for increased yield and stability
@@ -73,7 +73,7 @@ An epigenetic breeding system in soybean for increased yield and stability
 
 ### Amruta Narayanappa, University of Missouri, MO
 
-<img src="/img/speaker3.jpeg" alt="Dr. Gary Stacey Photo" width="150px" style="float: left" /> 
+<img src="/img/Amruta.jpeg" alt="Dr. Gary Stacey Photo" width="150px" style="float: left" /> 
 
 Abstract Title *
 Selection and characterization of rice blast (Magnaporthe oryzae) suppressing antagonistic bacterial strains from the rhizosphere of rice
@@ -82,7 +82,7 @@ Selection and characterization of rice blast (Magnaporthe oryzae) suppressing an
 
 ### Stewart Gillmor, CINVESTAV, Mexico
 
-<img src="/img/BlakeM.JPG" alt="Blake Meyers Photo" width="150px" style="float: left" /> 
+<img src="/img/stewart.jpg" alt="Blake Meyers Photo" width="150px" style="float: left" /> 
 
 Abstract Title *
 Zygotic genome activation in isogenic and hybrid embryos of Arabidopsis
