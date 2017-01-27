@@ -6,4 +6,4 @@ layout: regular
 # Registration 
 <hr style="clear: both;" />
 
-Registration is closed for the 2017 MU DuPont Pioneer Symposium.
+Registration is closed for the 2017 MU DuPont Pioneer Symposium. Thank you. 
