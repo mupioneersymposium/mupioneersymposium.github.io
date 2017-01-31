@@ -2,10 +2,10 @@
 layout: regular
 ---
 
-<img src="/img/column3.jpg" style="max-width:80%"/> 
+<img src="/img/column3.jpg" style="max-width:150%"/> 
 
 <hr style="clear: both;" />
 
 Schedule
 
-<img src="/img/schedule-3.png" style="max-width:200%"/>
+<img src="/img/schedule-3.png" style="max-width:150%"/>
