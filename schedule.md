@@ -7,4 +7,4 @@ layout: regular
 Schedule
 <hr style="clear: both;" />
 
-<img src="/img/schedule-5.PNG"/>
+<img src="/img/schedule-5.png"/>
