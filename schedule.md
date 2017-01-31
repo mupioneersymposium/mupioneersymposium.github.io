@@ -8,4 +8,4 @@ layout: regular
 
 Schedule
 
-<img src="/img/schedule-fnal.jpg" style="max-width:95%"/>
+<img src="/img/schedule-fnal.jpeg" style="max-width:95%"/>
