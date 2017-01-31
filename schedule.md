@@ -7,4 +7,4 @@ layout: regular
 Schedule
 <hr style="clear: both;" />
 
-<img src="/img/schedule-4.png" style="max-width:100%"/>
+<img src="/img/MuPioneerSym2017_Schedule - Schedule 2017MuPioneerSymposium.pdf"/>
