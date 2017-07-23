@@ -7,11 +7,11 @@ layout: regular
 <hr style="clear: both;" />
 
 
-### Dr. Kevin Hayes, DuPont Pioneer, IA
+### Dr.Ed Buckler, Cornell University, Ithaca, New York
 
-<img src="/img/kevinH.jpeg" alt="Dr. Kevin Hayes Photo" width="150px" style="float: left" /> 
+<img src="/img/buckler.jpg" alt="Dr. Ed Buckler Photo" width="150px" style="float: left" /> 
 
-Dr. Hayes is a team leader for genomics operations and protein structure analysis at DuPont Pioneer. His research interests include: using informational database and high-throughput chemical genomics to correlate phenotypes to gene variations. And his role at DuPont Pioneer is to lead a team esponsible for the management, analysis and dissemination of Next Generation Sequencing (NGS) data. Including sample management, pipeline development and management, alignment, assembly and interpretation of RNAseq, WGS, miRNAseq, TSSseq, microarray and specialized NGS applications.
+Dr. Ed Buckler is an USDA-ARS Research Geneticist & Group Leader at Cornell University, Ithaca, New York. The Buckler lab uses functional genomic approaches to dissect complex traits in maize, cassava, and grapes. The lab exploit the natural diversity of these plant genomes to identify the individual nucleotides responsible for complex (quantitative) variation and then apply it to US and global breeding.  The methods that have developed are applied to all areas of genetics including medicine, agriculture, and conservation.
 
 <hr style="clear: both;" />
 ## Speakers on Feb 2nd, 2017
