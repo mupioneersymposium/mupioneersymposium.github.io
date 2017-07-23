@@ -25,12 +25,11 @@ Dr. Dan Voytas is a Professor and a Director of the Center for Genome Engineerin
 
 <hr style="clear: both;" />
 
-### Dr. Amit Sethi, DuPont Pioneer, IA
+### Dr. Harry J. Klee, Horticultural Sciences Department, University of Florida, Gainesville, FL
 
-<img src="/img/speaker2.png" alt="Dr. Amit Sethi Photo"  width="150px" style="float: left" /> 
+<img src="/img/Klee.jpg" alt="Dr. Harry Klee Photo"  width="150px" style="float: left" /> 
 
-Dr. Sethi studies insect resistance at DuPont Pioneer. His research focuses on new technologies to control economically damaging agricultural pests like western corn rootworm.
-
+Dr. Harry J. Klee is a professor at Horticultural Sciences Department, University of Florida, Gainesville, FL. The Klee lab is working to understand the chemical and genetic make-up of "flavor" in fruits and vegetables. While the lab emphasize tomato in the research, the lab also have conducted research on melons, strawberries and lettuce. The taste of a tomato is the consequence of the interactions of sugars, acids and a set of 15-20 volatile compounds. These volatiles are derived from a diverse set of precursors, including amino acids, fatty acids and carotenoids. The lab is trying to understand how all of these chemicals are integrated into the unique flavor of a tomato, which is not clearly understood. Further, the lab has also exploited the large scale screening of heirlooms to identify the very best ones and has crossed those with modern cultivars resulting in varieties with heirloom taste and vastly improved performance.
 <hr style="clear: both;" />
 
 ### Dr. Diane Janick-Buckner, Truman State University, MO
