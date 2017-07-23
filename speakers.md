@@ -14,7 +14,7 @@ layout: regular
 Dr. Ed Buckler is an USDA-ARS Research Geneticist & Group Leader at Cornell University, Ithaca, New York. The Buckler lab uses functional genomic approaches to dissect complex traits in maize, cassava, and grapes. The lab exploit the natural diversity of these plant genomes to identify the individual nucleotides responsible for complex (quantitative) variation and then apply it to US and global breeding.  The methods that have developed are applied to all areas of genetics including medicine, agriculture, and conservation.
 
 <hr style="clear: both;" />
-## Speakers on Feb 2nd, 2017
+## Speakers on Feb 8th, 2018
 <hr style="clear: both;" />
 
 ### Dr. Dan Voytas, Colleges of Biological Sciences, University of Minnesota, St. Paul, MN
