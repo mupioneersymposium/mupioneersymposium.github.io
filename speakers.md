@@ -17,12 +17,11 @@ Dr. Ed Buckler is an USDA-ARS Research Geneticist & Group Leader at Cornell Univ
 ## Speakers on Feb 2nd, 2017
 <hr style="clear: both;" />
 
-### Dr. David Jackson, Cold Spring Harbor Laboratory, NY
+### Dr. Dan Voytas, Colleges of Biological Sciences, University of Minnesota, St. Paul, MN
 
-<img src="/img/speaker1.jpeg" alt="Dr. David Jackson Photo" width="150px" style="float: left" /> 
+<img src="/img/Voytas.jpg" alt="Dr. Dan Voytas Photo" width="150px" style="float: left" /> 
 
-The Jackson Lab studies signals in cells that regulate growth and shape in plants. His lab has discovered several genes that control plant architecture by exerting influence on stem cells. In addition, the Jackson lab has created a collection of maize transgenic lines enabling the maize and broader community to do experiments never before possible in crop plants.
-
+Dr. Dan Voytas is a Professor and a Director of the Center for Genome Engineering, Colleges of Biological Sciences, University of Minnesota, St. Paul, MN. The Voytas lab uses targeted plant genome modification for understanding plant gene function in order to develop crop plants with new traits of value.  The lab has enabled efficient methods for targeted genome modification of plants using sequence-specific nucleases.  With zinc finger nucleases (ZFNs), TAL effector nucleases (TALENs), and the CRISPR/Cas9 system, the lab has achieved targeted gene knockouts, replacements and insertions in a variety of plant species.  The current focus of the lab is on optimizing delivery of nucleases and donor DNA molecules to plant cells to more efficiently achieve targeted genetic alterations.
 
 <hr style="clear: both;" />
 
