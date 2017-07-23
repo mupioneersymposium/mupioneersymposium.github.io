@@ -9,12 +9,10 @@ layout: regular
 
 ### Dr.Ed Buckler, Cornell University, Ithaca, New York
 
-<img src="/img/buckler.jpg" alt="Dr. Ed Buckler Photo" width="150px" style="float: left" /> 
+<img src="/img/buckler.jpg" alt="Dr.  Ed Buckler Photo" width="150px" style="float: left" /> 
 
 Dr. Ed Buckler is an USDA-ARS Research Geneticist & Group Leader at Cornell University, Ithaca, New York. The Buckler lab uses functional genomic approaches to dissect complex traits in maize, cassava, and grapes. The lab exploit the natural diversity of these plant genomes to identify the individual nucleotides responsible for complex (quantitative) variation and then apply it to US and global breeding.  The methods that have developed are applied to all areas of genetics including medicine, agriculture, and conservation.
 
-<hr style="clear: both;" />
-## Speakers on Feb 8th, 2018
 <hr style="clear: both;" />
 
 ### Dr. Dan Voytas, Colleges of Biological Sciences, University of Minnesota, St. Paul, MN
@@ -24,7 +22,8 @@ Dr. Ed Buckler is an USDA-ARS Research Geneticist & Group Leader at Cornell Univ
 Dr. Dan Voytas is a Professor and a Director of the Center for Genome Engineering, Colleges of Biological Sciences, University of Minnesota, St. Paul, MN. The Voytas lab uses targeted plant genome modification for understanding plant gene function in order to develop crop plants with new traits of value.  The lab has enabled efficient methods for targeted genome modification of plants using sequence-specific nucleases.  With zinc finger nucleases (ZFNs), TAL effector nucleases (TALENs), and the CRISPR/Cas9 system, the lab has achieved targeted gene knockouts, replacements and insertions in a variety of plant species.  The current focus of the lab is on optimizing delivery of nucleases and donor DNA molecules to plant cells to more efficiently achieve targeted genetic alterations.
 
 <hr style="clear: both;" />
-
+## Speakers on Feb 8th, 2018
+<hr style="clear: both;" />
 ### Dr. Harry J. Klee, Horticultural Sciences Department, University of Florida, Gainesville, FL
 
 <img src="/img/Klee.jpg" alt="Dr. Harry Klee Photo"  width="150px" style="float: left" /> 
