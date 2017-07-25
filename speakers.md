@@ -34,7 +34,7 @@ Dr. Harry J. Klee is a professor at Horticultural Sciences Department, Universit
 
 ### Dr. Robert Meeley, DuPont-Pioneer R&D, Johnston, Iowa
 
-<img src="/img/Bob.jpg" alt="Dr.  Robert Meeley" width="150px" style="float: left" /> 
+<img src="/img/Bob.jpg" alt="Dr. Robert Meeley" width="150px" style="float: left" /> 
 
 Dr. Robert Meeley is a Senior Scientist and Manager in Pioneer’s Trait Discovery organization.  His group focuses on integrated genetic strategies Native Trait Discovery and Genome Editing.  Native Trait Discovery seeks to isolate maize genes controlling important plant phenotypes, using positional cloning, transposon tagging and sequence-based evaluation of natural or induced variation for important traits, including plant architecture and disease resistance.  Genome editing emphasizes CRISPR-Cas projects on Next Generation Waxy Corn, a collaboration with CIMMYT on Maize Lethal Necrosis, “allele-swap” concepts for better disease tolerance, and exploratory concepts to alter plant architecture.  
 
