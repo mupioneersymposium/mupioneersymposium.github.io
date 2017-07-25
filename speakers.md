@@ -42,7 +42,7 @@ Dr. Robert Meeley is a Senior Scientist and Manager in Pioneer’s Trait Discove
 
 ### Dr. Linda L. Walling, Department of Botany and Plant Sciences, University of California-Riverside.
 
-<img src="/img/Linda.jpg" alt="Dr. Linda L. Walling Photo" width="150px" style="float: left" /> 
+<img src="/img/Linda.JPG" alt="Dr. Linda L. Walling Photo" width="150px" style="float: left" /> 
 
 Linda L. Walling is a Professor, Department of Botany and Plant Sciences, University of California-Riverside. The walling lab is working to understand plant responses to wounding, pathogens, and herbivores. Two research projects dominate the current lab research initiatives. First, dissecting the mechanisms used to perceive phloem-feeding whiteflies in squash, tomato and Arabidopsis. Second, the lab identified a peptidase (leucine aminopeptidase) that responds to bacterial pathogens, wounding and tissue-damaging herbivores. This enzyme has led the lab to study the role of N-terminal processing enzymes during development and in response to stress.  The lab utilize multidisciplinary approaches in both projects by incorporating the tools of biochemistry, genetics, cell biology, and genomics.
 
