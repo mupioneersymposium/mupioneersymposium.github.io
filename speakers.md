@@ -40,50 +40,11 @@ Dr. Robert Meeley is a Senior Scientist and Manager in Pioneer’s Trait Discove
 
 <hr style="clear: both;" />
 
-### Dr. Gary Stacey, University of Missouri, MO
+### Dr. Linda L. Walling, Department of Botany and Plant Sciences, University of California-Riverside.
 
-<img src="/img/speaker3.jpeg" alt="Dr. Gary Stacey Photo" width="150px" style="float: left" /> 
+<img src="/img/Linda.JPG" alt="Dr. Linda L. Walling Photo" width="150px" style="float: left" /> 
 
-The Stacey lab focuses on many different aspects of soybean biology including: understanding host-microbe interactions, specifically the symbiosis between a nitrogen fixing bacteria, Bradyrhizobium japonica and soybean, the role of extracellular ATP and peptide transport in plant growth and development, genomics, and biotechnology.
-
-<hr style="clear: both;" />
-
-### Dr. Blake Meyers, University of Missouri, MO
-
-<img src="/img/BlakeM.JPG" alt="Blake Meyers Photo" width="150px" style="float: left" /> 
-
-Dr. Meyers's work focuses on genome-scale studies of RNA and components of RNA silencing pathways, with a recent emphasis on plant reproductive biology and the evolution of plant small RNAs. 
-
-<hr style="clear: both;" />
-
-<hr style="clear: both;" />
-## Best submitted abstract speakers
-<hr style="clear: both;" />
-
-### Sunil Kumar, University of Nebraska Lincoln, NE
-
-<img src="/img/sunil.jpg" alt="Dr. Diane Janick-Buckner" width="150px" style="float: left" /> 
-
-Abstract Title *
-An epigenetic breeding system in soybean for increased yield and stability
-
-<hr style="clear: both;" />
-
-### Amruta Narayanappa, University of Missouri, MO
-
-<img src="/img/Amruta.jpeg" alt="Dr. Gary Stacey Photo" width="150px" style="float: left" /> 
-
-Abstract Title *
-Selection and characterization of rice blast (Magnaporthe oryzae) suppressing antagonistic bacterial strains from the rhizosphere of rice
-
-<hr style="clear: both;" />
-
-### Stewart Gillmor, CINVESTAV, Mexico
-
-<img src="/img/stewart.jpg" alt="Blake Meyers Photo" width="150px" style="float: left" /> 
-
-Abstract Title *
-Zygotic genome activation in isogenic and hybrid embryos of Arabidopsis
+Linda L. Walling is a Professor, Department of Botany and Plant Sciences, University of California-Riverside. The walling lab is working to understand plant responses to wounding, pathogens, and herbivores. Two research projects dominate the current lab research initiatives. First, dissecting the mechanisms used to perceive phloem-feeding whiteflies in squash, tomato and Arabidopsis. Second, the lab identified a peptidase (leucine aminopeptidase) that responds to bacterial pathogens, wounding and tissue-damaging herbivores. This enzyme has led the lab to study the role of N-terminal processing enzymes during development and in response to stress.  The lab utilize multidisciplinary approaches in both projects by incorporating the tools of biochemistry, genetics, cell biology, and genomics.
 
 <hr style="clear: both;" />
 
