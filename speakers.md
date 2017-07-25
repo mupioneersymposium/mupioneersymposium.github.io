@@ -24,6 +24,7 @@ Dr. Dan Voytas is a Professor and a Director of the Center for Genome Engineerin
 <hr style="clear: both;" />
 ## Speakers on Feb 8th, 2018
 <hr style="clear: both;" />
+
 ### Dr. Harry J. Klee, Horticultural Sciences Department, University of Florida, Gainesville, FL
 
 <img src="/img/Klee.jpg" alt="Dr. Harry Klee Photo"  width="150px" style="float: left" /> 
@@ -31,11 +32,11 @@ Dr. Dan Voytas is a Professor and a Director of the Center for Genome Engineerin
 Dr. Harry J. Klee is a professor at Horticultural Sciences Department, University of Florida, Gainesville, FL. The Klee lab is working to understand the chemical and genetic make-up of "flavor" in fruits and vegetables. While the lab emphasize tomato in the research, the lab also have conducted research on melons, strawberries and lettuce. The taste of a tomato is the consequence of the interactions of sugars, acids and a set of 15-20 volatile compounds. These volatiles are derived from a diverse set of precursors, including amino acids, fatty acids and carotenoids. The lab is trying to understand how all of these chemicals are integrated into the unique flavor of a tomato, which is not clearly understood. Further, the lab has also exploited the large scale screening of heirlooms to identify the very best ones and has crossed those with modern cultivars resulting in varieties with heirloom taste and vastly improved performance.
 <hr style="clear: both;" />
 
-### Dr. Diane Janick-Buckner, Truman State University, MO
+### Dr. Robert Meeley, DuPont-Pioneer R&D, Johnston, Iowa
 
-<img src="/img/jb2.JPG" alt="Dr. Diane Janick-Buckner" width="150px" style="float: left" /> 
+<img src="/img/Bob.JPG" alt="Dr.  Robert Meeley" width="150px" style="float: left" /> 
 
-Dr. Janick-Buckner is a professor of biological sciences at Truman State University. Her research focuses on cellular and molecular analysis in maize and most importantly, training undergraduate students to be independent researchers through course and lab work.
+Dr. Robert Meeley is a Senior Scientist and Manager in Pioneer’s Trait Discovery organization.  His group focuses on integrated genetic strategies Native Trait Discovery and Genome Editing.  Native Trait Discovery seeks to isolate maize genes controlling important plant phenotypes, using positional cloning, transposon tagging and sequence-based evaluation of natural or induced variation for important traits, including plant architecture and disease resistance.  Genome editing emphasizes CRISPR-Cas projects on Next Generation Waxy Corn, a collaboration with CIMMYT on Maize Lethal Necrosis, “allele-swap” concepts for better disease tolerance, and exploratory concepts to alter plant architecture.  
 
 <hr style="clear: both;" />
 
