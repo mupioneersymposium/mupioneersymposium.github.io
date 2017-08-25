@@ -3,7 +3,7 @@ layout: regular
 ---
 
 <hr style="clear: both;" />
-## Special Seminar Speaker on Feb 8th, 2018
+## Keynote Speaker on Feb 8th, 2018
 <hr style="clear: both;" />
 
 
