@@ -6,4 +6,4 @@ layout: regular
 
 <hr style="clear: both;" />
 
-<img src="/img/schedule-5.PNG" style="max-width:100%"/>
+<img src="/img/no schedule right now.PNG" style="max-width:100%"/>
