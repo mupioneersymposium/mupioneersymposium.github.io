@@ -10,9 +10,10 @@ layout: regular
 # Rules
 ===
 
-## **Deadline: January 19th 2017 at 11:59PM**
+## **Deadline: 22 December, 2017 at 11:59PM**
 
 ### Abstracts for poster and or talk should be in line with the theme of the symposium, and therefore must address how one's research can at some point improve agriculture. 
+##Abstract submission will open on 20th November, 2017
 
 <hr style="clear: both;" />
 
