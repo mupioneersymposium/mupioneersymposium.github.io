@@ -6,13 +6,9 @@ layout: regular
 <img src="/posterview.jpg" style="max-width:95%"/> 
 
 <hr style="clear: both;" />
-
-# Rules
-===
+## Abstracts for poster and or talk should be in line with the theme of the symposium, and therefore must address how one's research can at some point improve agriculture. 
 <hr style="clear: both;" />
-## **Deadline: 22 December, 2017 at 11:59PM**
-<hr style="clear: both;" />
-### Abstracts for poster and or talk should be in line with the theme of the symposium, and therefore must address how one's research can at some point improve agriculture. 
+## **Deadline for the abstract submission: 22 December, 2017 at 11:59PM**
 <hr style="clear: both;" />
 ## Abstract submission is open now.
 <hr style="clear: both;" />
