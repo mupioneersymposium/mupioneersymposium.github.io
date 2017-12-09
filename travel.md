@@ -6,8 +6,8 @@ layout: regular
 # Travel Awards 
 <hr style="clear: both;" />
 
-The applications is open now until 8th January, 2018 for the 2nd Annual MU Plant Research Symposium Travel Award. Please read the following instructions carefully;
+Travel Award applications and abstract submissions are now open for the 2nd Annual MU Plant Research Symposium. Applications and submissions will be accepted until January 8th, 2018.
 <hr style="clear: both;" />
-In order to be eligible for travel award, you must submit abstract for Oral or Poster presentation. If you are interested in applying for a travel award, please fill out the additional part for the travel award form under the "Abstract" tab  as well as register for the symposium under the “Registration” tab. All travel award recipients will be provided lodging and parking for the night of 7th February and 8th February, 2018. If additional funds remain, they will be awarded based on the travel needs of each individual. Recipients can use up to the additional awarded amount (if applicable), and will need to provide receipts for travel costs within **five** working days after the end of the symposium to be reimbursed.
+Submission of an abstract for Oral or Poster presentation is required to be eligible for a travel award. For those interested in travel awards please complete the additional information in the abstract submission form as well as completing the registration form. All travel award applicants will be provided lodging and parking for the nights of February 7th and 8th 2018. Additional funds to cover travel expenditures will be awarded based on need and availability of funds after lodging and parking are provided. Recipients of additional awards will need to provide receipts for travel costs within five working days after the end of the symposium to be reimbursed.
 <hr style="clear: both;" />
 For questions related to travel award please email to Katy Guthrie at **klgdn2@mail.missouri.edu**
