@@ -7,7 +7,7 @@ layout: regular
 <hr style="clear: both;" />
 
 
-### Dr. Ed Buckler, Cornell University, Ithaca, New York
+### Dr. Ed Buckler, USDA-ARS, Cornell University, Ithaca, New York
 
 <img src="/img/buckler.jpg" alt="Dr.  Ed Buckler Photo" width="150px" style="float: left" /> 
 
