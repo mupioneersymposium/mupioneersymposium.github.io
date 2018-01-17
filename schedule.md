@@ -6,4 +6,4 @@ layout: regular
 
 <hr style="clear: both;" />
 
-<img src="/img/schedule2_2018.jpg" style="max-width:100%"/>
+<img src="/img/MUPRS2018finalschedule.jpg" style="max-width:100%"/>
