@@ -7,7 +7,7 @@ layout: regular
 <hr style="clear: both;" />
 
 
-### Dr. Roger T. Chetalet, Department of Plant Sciences, University of California, Davis. 
+### Dr. Roger T. Chetalet, Department of Plant Sciences, University of California, Davis, CA
 
 <img src="/img/roger2019.jpg" alt="Dr. Roger T. Chetalet Photo" width="150px" style="float: left" /> 
 
@@ -16,40 +16,33 @@ Dr. Chetelat is director of C.M. Rick Tomato Genetics Resource Center and a prof
 
 <hr style="clear: both;" />
 
-### Dr. Dan Voytas, Colleges of Biological Sciences, University of Minnesota, St. Paul, MN
+### Dr. Allison Miller, Department of Biology, Saint Louis University, St. Louis, MO
 
-<img src="/img/Voytas.jpg" alt="Dr. Dan Voytas Photo" width="150px" style="float: left" /> 
+<img src="/img/Alison2019.jpg" alt="Dr.Allison Miller Photo" width="150px" style="float: left" /> 
 
-Dr. Dan Voytas is a Professor and a Director of the Center for Genome Engineering, Colleges of Biological Sciences, University of Minnesota, St. Paul, MN. The Voytas lab uses targeted plant genome modification for understanding plant gene function in order to develop crop plants with new traits of value.  The lab has enabled efficient methods for targeted genome modification of plants using sequence-specific nucleases.  With zinc finger nucleases (ZFNs), TAL effector nucleases (TALENs), and the CRISPR/Cas9 system, the lab has achieved targeted gene knockouts, replacements and insertions in a variety of plant species.  The current focus of the lab is on optimizing delivery of nucleases and donor DNA molecules to plant cells to more efficiently achieve targeted genetic alterations.
-<a href="https://cbs.umn.edu/voytas-lab/home/" target="_blank"> Dr. Dan Voytas </a>
-
-<hr style="clear: both;" />
-## Speakers on Feb 8th, 2018
-<hr style="clear: both;" />
-
-### Dr. Harry J. Klee, Horticultural Sciences Department, University of Florida, Gainesville, FL
-
-<img src="/img/Klee.jpg" alt="Dr. Harry Klee Photo"  width="150px" style="float: left" /> 
-
-Dr. Harry J. Klee is a professor at Horticultural Sciences Department, University of Florida, Gainesville, FL. The Klee lab is working to understand the chemical and genetic make-up of "flavor" in fruits and vegetables. While the lab emphasize tomato in the research, the lab also have conducted research on melons, strawberries and lettuce. The taste of a tomato is the consequence of the interactions of sugars, acids and a set of 15-20 volatile compounds. These volatiles are derived from a diverse set of precursors, including amino acids, fatty acids and carotenoids. The lab is trying to understand how all of these chemicals are integrated into the unique flavor of a tomato, which is not clearly understood. Further, the lab has also exploited the large scale screening of heirlooms to identify the very best ones and has crossed those with modern cultivars resulting in varieties with heirloom taste and vastly improved performance.
-<a href="http://hos.ufl.edu/kleeweb/" target="_blank"> Dr. Harry Klee </a>
+Dr. Miller is a professor in the Department of Biology at Saint Louis University along with joint appointment at Donald Danforth Center and a Research Associate at Missouri Botanical Garden. Her lab studies evolution and plasticity of perennial crops using genetic data and patterns of gene expression and various plant traits including flowering time, fruit and seed chemistry, leaf shape, ion concentration and physiology for perennial crop improvement, the development of novel crops for natural systems agriculture, and the conservation of perennial plant genetic resources. Her ongoing project focusses on studying grafted grapevines to understand how different roots influence whole plant functions.
+<a href="https://www.danforthcenter.org/scientists-research/principal-investigators/allison-miller/" target="_blank"> Dr. Allison Miller </a>
 
 <hr style="clear: both;" />
+## Speakers on Feb 21th, 2019
+<hr style="clear: both;" />
 
-### Dr. Robert Meeley, DuPont-Pioneer R&D, Johnston, Iowa
+### Dr. Alan B. Bennett, Department of Plant Sciences, University of California, Davis, CA
 
-<img src="/img/Bob.jpg" alt="Dr. Robert Meeley" width="150px" style="float: left" /> 
+<img src="/img/Alan2019.jpg" alt="Dr. Alan B. Bennett Photo"  width="150px" style="float: left" /> 
 
-Dr. Robert Meeley is a Senior Scientist and Manager in Pioneer’s Trait Discovery organization.  His group focuses on integrated genetic strategies Native Trait Discovery and Genome Editing.  Native Trait Discovery seeks to isolate maize genes controlling important plant phenotypes, using positional cloning, transposon tagging and sequence-based evaluation of natural or induced variation for important traits, including plant architecture and disease resistance.  Genome editing emphasizes CRISPR-Cas projects on Next Generation Waxy Corn, a collaboration with CIMMYT on Maize Lethal Necrosis, “allele-swap” concepts for better disease tolerance, and exploratory concepts to alter plant architecture.  
+Dr. Bennett is a distinguished professor at Department of Plant Sciences at UC-Davis. He is also director of Public Intellectual Resource for Agriculture (PIPRA). His lab is mostly focused on the study of tomato fruit development and ripening, cell wall disassembly, plant association with diazotrophic microbiomes using molecular biology approach. He is also an AAAs fellow. Dr. Bennett’s team recently discovered a nitrogen fixing Maize landraces which opens up the new avenues in understanding and application of biological nitrogen fixation in cereals crops.
+<a href="https://biology.ucdavis.edu/people/alan-bennett/" target="_blank"> Dr. Alan B. Bennett </a>
 
 <hr style="clear: both;" />
 
-### Dr. Linda L. Walling, Department of Botany and Plant Sciences, University of California-Riverside.
 
-<img src="/img/Linda.JPG" alt="Dr. Linda L. Walling Photo" width="150px" style="float: left" /> 
+### Dr. Patricia Springer, Department of Botany and Plant Sciences, University of California,Riverside, CA
 
-Linda L. Walling is a Professor, Department of Botany and Plant Sciences, University of California-Riverside. The walling lab is working to understand plant responses to wounding, pathogens, and herbivores. Two research projects dominate the current lab research initiatives. First, dissecting the mechanisms used to perceive phloem-feeding whiteflies in squash, tomato and Arabidopsis. Second, the lab identified a peptidase (leucine aminopeptidase) that responds to bacterial pathogens, wounding and tissue-damaging herbivores. This enzyme has led the lab to study the role of N-terminal processing enzymes during development and in response to stress.  The lab utilize multidisciplinary approaches in both projects by incorporating the tools of biochemistry, genetics, cell biology, and genomics.
+<img src="/img/patricia2019.jpg" alt="Dr. Patricia Springer Photo" width="150px" style="float: left" /> 
 
+Dr. Springer is department chair of Botany and Plant sciences and professor of genetics at UC Riverside. Dr. Springer’s lab focusses on understanding the molecular events that regulate the development of leaves and other lateral organs that initiate the shoot apical meristem. Her lab is interested in understanding mechanisms that control the formation of a boundary between the SAM and organ primordia in the model plant Arabidopsis thaliana. 
+<a href="http://cepceb.ucr.edu/people/springer.html/" target="_blank"> Dr. Paticia Springer </a>
 <hr style="clear: both;" />
 
 
