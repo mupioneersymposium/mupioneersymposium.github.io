@@ -3,16 +3,16 @@ layout: regular
 ---
 
 <hr style="clear: both;" />
-## Keynote Speaker on Feb 8th, 2018
+## Keynote Speaker on Feb 21th, 2019
 <hr style="clear: both;" />
 
 
-### Dr. Ed Buckler, USDA-ARS, Ithaca, New York
+### Dr. Roger T. Chetalet, Department of Plant Sciences, University of California, Davis. 
 
-<img src="/img/buckler.jpg" alt="Dr.  Ed Buckler Photo" width="150px" style="float: left" /> 
+<img src="/img/roger2019.jpg" alt="Dr. Roger T. Chetalet Photo" width="150px" style="float: left" /> 
 
-Dr. Ed Buckler is a USDA-ARS Research Geneticist & Group Leader at Cornell University, Ithaca, New York. The Buckler lab uses functional genomic approaches to dissect complex traits in maize, cassava, and grapes. The lab exploit the natural diversity of these plant genomes to identify the individual nucleotides responsible for complex (quantitative) variation and then apply it to US and global breeding.  The methods that have developed are applied to all areas of genetics including medicine, agriculture, and conservation.
-<a href="http://www.maizegenetics.net/" target="_blank"> Dr. Ed Buckler </a>
+Dr. Chetelat is director of C.M. Rick Tomato Genetics Resource Center and a professor at Department of Plant Sciences at University of California-Davis. His lab studies prezygotic interspecific reproductive barriers using cultivated tomato and related Solanum species as a model, especially focusing on the pollen factors. His group is also creating introgression lines by transferring the genome of Solanum sitiens, species endemic to the Atacama Desert of chile, into the background of cultivated tomato.  
+<a href="https://biology.ucdavis.edu/people/roger-chetelat/" target="_blank"> Dr. Roger T. Chetalet </a>
 
 <hr style="clear: both;" />
 
