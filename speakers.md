@@ -45,6 +45,10 @@ Dr. Springer is department chair of Botany and Plant sciences and professor of g
 <a href="http://cepceb.ucr.edu/people/springer.html/" target="_blank"> Dr. Paticia Springer </a>
 <hr style="clear: both;" />
 
+### Dr. Petra Wolters, Senior Research Scientist, Corteva agriscience,Johnston, IA
+
+Dr. Wolters is a senior research scientist and manager at Corteva agriscience, Johnston, and her research expertise is on wheat moleculare geneticist.
+<hr style="clear: both;" />
 
 
 
