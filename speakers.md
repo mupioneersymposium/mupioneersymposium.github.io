@@ -47,7 +47,7 @@ Dr. Springer is department chair of Botany and Plant sciences and professor of g
 
 ### Dr. Petra Wolters, Senior Research Scientist, Corteva agriscience,Johnston, IA
 
-Dr. Wolters is a senior research scientist and manager at Corteva agriscience, Johnston, and her research expertise is on wheat moleculare geneticist.
+Dr. Wolters is a senior research scientist and manager at Corteva agriscience, Johnston, IA and her area of expertise is on wheat molecular genetics.
 <hr style="clear: both;" />
 
 
