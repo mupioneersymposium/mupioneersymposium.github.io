@@ -24,7 +24,7 @@ Dr. Miller is a professor in the Department of Biology at Saint Louis University
 <a href="https://www.danforthcenter.org/scientists-research/principal-investigators/allison-miller/" target="_blank"> Dr. Allison Miller </a>
 
 <hr style="clear: both;" />
-## Speakers on Feb 21th, 2019
+## Speakers on 21st Feb, 2019
 <hr style="clear: both;" />
 
 ### Dr. Alan B. Bennett, Department of Plant Sciences, University of California, Davis, CA
