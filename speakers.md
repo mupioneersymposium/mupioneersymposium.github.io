@@ -45,9 +45,11 @@ Dr. Springer is department chair of Botany and Plant sciences and professor of g
 <a href="http://cepceb.ucr.edu/people/springer.html/" target="_blank"> Dr. Paticia Springer </a>
 <hr style="clear: both;" />
 
-### Dr. Petra Wolters, Senior Research Scientist, Corteva agriscience,Johnston, IA
+### Dr. Petra Wolters, Plant Breeding, Research & Development, Corteva Agriscience ™, New Holland, PA
 
-Dr. Wolters is a senior research scientist and manager at Corteva agriscience, Johnston, IA and her area of expertise is on wheat molecular genetics.
+<img src="/img/petra.jpg" alt="Dr. Petra Wolters Photo" width="150px" style="float: left" /> 
+
+Dr. Wolters is leading the Global Plant Pathology group at Corteva Agriscience ™.  Her team focuses on providing Plant Pathology support for the global plant breeding organization.  Responsibilities of the group include inoculum production, assay development, phenotyping, phytosanitary processes and disease diagnostics.  Her group also studies plant pathogens and is interested in understanding pathogen genetics as it relates to interactions with plant genes that are involved in conferring disease resistance.  
 <hr style="clear: both;" />
 
 
