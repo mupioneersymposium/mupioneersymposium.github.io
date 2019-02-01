@@ -8,7 +8,7 @@ layout: regular
 <hr style="clear: both;" />
 ## Abstracts for poster and or talk should be in line with the theme of the symposium, and therefore must address how one's research can at some point improve agriculture. 
 <hr style="clear: both;" />
-## **Deadline for the abstract submission: 22nd January, 2019 at 11:59PM**
+## **Deadline for the poster abstract submission is : 10 February, 2019 at 11:59PM** (Oral abstract submission is closed now)
 <hr style="clear: both;" />
 ## Abstract submission is **OPEN** now.
 <hr style="clear: both;" />
