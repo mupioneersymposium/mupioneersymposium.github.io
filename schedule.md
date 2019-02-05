@@ -3,9 +3,8 @@ layout: regular
 ---
 
 <hr style="clear: both;" />
-**Schedule for 2019 coming soon** 
-<hr style="clear: both;" />
 
->
+<img src="/img/Eventschedule2019.jpg" style="max-width:100%"/>
+
 
 
