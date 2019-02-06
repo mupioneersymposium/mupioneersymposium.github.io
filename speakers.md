@@ -66,7 +66,7 @@ Title : Dynamic changes in genomic DNA methylation may contribute to soybean aph
 <hr style="clear: both;" />
 
 ### Kevin Rice, Assistant Professor, Department of Plant Sciences, University of Missouri-Columbia
-<img src="/img/Kevin2019.JPG" alt="Kevin Rice Photo" width="100px" style="float: left" />
+<img src="/img/Kevin2019b.JPG" alt="Kevin Rice Photo" width="100px" style="float: left" />
 Title : Cascading ecological effects of fungus emitted volatile organic compounds on plant and herbivore growth
 <hr style="clear: both;" />
 
