@@ -56,23 +56,23 @@ Dr. Wolters is leading the Global Plant Pathology group at Corteva Agriscience �
 <hr style="clear: both;" />
 
 ### Ben Julius, Graduate Student, Division of Biological Sciences, University of Missouri-Columbia
+<img src="/img/Ben2019.jpg" alt="Ben Julius Photo" width="100px" style="float: left" />
 Title : An “a-maizing” connection between cell wall biosynthesis and carbohydrate partitioning: Brittle Stalk 2-Like3 encodes carbohydrate partitioning defective28
-<img src="/img/Ben2019.jpg" alt="Ben Julius Photo" width="100px" style="float: left" /> 
 <hr style="clear: both;" />
 
 ### Saima Shahid, Postdoctoral associate, Donald Danforth Plant Science Center
-Title : Dynamic changes in genomic DNA methylation may contribute to soybean aphid virulence
 <img src="/img/Saima2019.JPG" alt="Saima Shahid Photo" width="100px" style="float: left" /> 
+Title : Dynamic changes in genomic DNA methylation may contribute to soybean aphid virulence
+<hr style="clear: both;" />
+
+### Kevin Rice, Assistant Professor, Department of Plant Sciences, University of Missouri-Columbia
+<img src="/img/Kevin2019.JPG" alt="Kevin Rice Photo" width="100px" style="float: left" />
+Title : Cascading ecological effects of fungus emitted volatile organic compounds on plant and herbivore growth
 <hr style="clear: both;" />
 
 ### Mary Happ, Graduate Student, Department of Agronomy & Horticulture, University of Nebraska-Lincoln
 Title : Generating High Density, Low Cost Genotype Data in Soybean
 <hr style="clear: both;" />
-
-### Kevin Rice, Assistant Professor, Department of Plant Sciences, University of Missouri-Columbia
-Title : Cascading ecological effects of fungus emitted volatile organic compounds on plant and herbivore growth
-<img src="/img/Kevin2019.JPG" alt="Kevin Rice Photo" width="100px" style="float: left" /> 
-
 
 
 
