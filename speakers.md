@@ -52,7 +52,7 @@ Dr. Springer is department chair of Botany and Plant sciences and professor of g
 Dr. Wolters is leading the Global Plant Pathology group at Corteva Agriscience ™.  Her team focuses on providing Plant Pathology support for the global plant breeding organization.  Responsibilities of the group include inoculum production, assay development, phenotyping, phytosanitary processes and disease diagnostics.  Her group also studies plant pathogens and is interested in understanding pathogen genetics as it relates to interactions with plant genes that are involved in conferring disease resistance.  
 <hr style="clear: both;" />
 
-## Abstract Speaker on 21st Feb, 2019
+## Abstract Speakers on 21st Feb, 2019
 <hr style="clear: both;" />
 
 ### Ben Julius, Graduate Student, Division of Biological Sciences, University of Missouri-Columbia
