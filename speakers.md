@@ -60,25 +60,20 @@ Title : An “a-maizing” connection between cell wall biosynthesis and carbohy
 
 <img src="/img/Ben2019.jpg" alt="Ben Julius Photo" width="150px" style="float: left" /> 
 
-<hr style="clear: both;" />
-
 ### Saima Shahid, Postdoctoral associate, Donald Danforth Plant Science Center
 Title : Dynamic changes in genomic DNA methylation may contribute to soybean aphid virulence
 
 <img src="/img/Saima2019.JPG" alt="Saima Shahid Photo" width="150px" style="float: left" /> 
-<hr style="clear: both;" />
 
 ### Mary Happ, Graduate Student, Department of Agronomy & Horticulture, University of Nebraska-Lincoln
 Title : Generating High Density, Low Cost Genotype Data in Soybean
 
 <img src="/img/.JPG" alt="Mary Happ Photo" width="150px" style="float: left" /> 
-<hr style="clear: both;" /
 
 ### Kevin Rice, Assistant Professor, Department of Plant Sciences, University of Missouri-Columbia
 Title : Cascading ecological effects of fungus emitted volatile organic compounds on plant and herbivore growth
-
 <img src="/img/Kevin2019.JPG" alt="Kevin Rice Photo" width="150px" style="float: left" /> 
-<hr style="clear: both;" /
+
 
 
 
