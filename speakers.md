@@ -71,6 +71,7 @@ Title : Cascading ecological effects of fungus emitted volatile organic compound
 <hr style="clear: both;" />
 
 ### Mary Happ, Graduate Student, Department of Agronomy & Horticulture, University of Nebraska-Lincoln
+<img src="/img/HappMary2019.jpg" alt="Mary Happ Photo" width="100px" style="float: left" />
 Title : Generating High Density, Low Cost Genotype Data in Soybean
 <hr style="clear: both;" />
 
