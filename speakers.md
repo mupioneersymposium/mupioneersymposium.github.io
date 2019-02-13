@@ -7,7 +7,7 @@ layout: regular
 <hr style="clear: both;" />
 
 
-### Dr. Roger T. Chetalet, Department of Plant Sciences, University of California, Davis, CA
+### Dr. Roger T. Chetelat, Department of Plant Sciences, University of California, Davis, CA
 
 <img src="/img/roger2019.jpg" alt="Dr. Roger T. Chetalet Photo" width="150px" style="float: left" /> 
 
