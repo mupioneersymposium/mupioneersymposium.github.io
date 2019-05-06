@@ -3,7 +3,7 @@ layout: regular
 ---
 
 <hr style="clear: both;" />
-## Keynote Speaker on 21st Feb, 2019
+## Keynote Speaker on 21st February, 2019
 <hr style="clear: both;" />
 
 
