@@ -3,81 +3,78 @@ layout: regular
 ---
 
 <hr style="clear: both;" />
-## Keynote Speaker on 21st February, 2019
+## Keynote Speaker on 20st February, 2020
 <hr style="clear: both;" />
 
+### Dr. Mary Lou Guerinot, Department of Biological Sciences, Dartmouth College, Hanover, NH
 
-### Dr. Roger T. Chetelat, Department of Plant Sciences, University of California, Davis, CA
+<img src="/img/2020Guerinot.png" alt="Dr. Mary Lou Guerinot Photo" width="150px" style="float: left" /> 
 
-<img src="/img/roger2019.jpg" alt="Dr. Roger T. Chetalet Photo" width="150px" style="float: left" /> 
-
-Dr. Chetelat is director of C.M. Rick Tomato Genetics Resource Center and a professor at Department of Plant Sciences at University of California-Davis. His lab studies prezygotic interspecific reproductive barriers using cultivated tomato and related Solanum species as a model, especially focusing on the pollen factors. His group is also creating introgression lines by transferring the genome of Solanum sitiens, species endemic to the Atacama Desert of chile, into the background of cultivated tomato.  
-<a href="https://biology.ucdavis.edu/people/roger-chetelat/" target="_blank"> Dr. Roger T. Chetalet </a>
-
-<hr style="clear: both;" />
-
-### Dr. Allison Miller, Department of Biology, Saint Louis University, St. Louis, MO
-
-<img src="/img/Alison2019.jpg" alt="Dr.Allison Miller Photo" width="150px" style="float: left" /> 
-
-Dr. Miller is a professor in the Department of Biology at Saint Louis University along with joint appointment at Donald Danforth Center and a Research Associate at Missouri Botanical Garden. Her lab studies evolution and plasticity of perennial crops using genetic data and patterns of gene expression and various plant traits including flowering time, fruit and seed chemistry, leaf shape, ion concentration and physiology for perennial crop improvement, the development of novel crops for natural systems agriculture, and the conservation of perennial plant genetic resources. Her ongoing project focusses on studying grafted grapevines to understand how different roots influence whole plant functions.
-<a href="https://www.danforthcenter.org/scientists-research/principal-investigators/allison-miller/" target="_blank"> Dr. Allison Miller </a>
-
-<hr style="clear: both;" />
-## Speakers on 21st Feb, 2019
-<hr style="clear: both;" />
-
-### Dr. Alan B. Bennett, Department of Plant Sciences, University of California, Davis, CA
-
-<img src="/img/Alan2019.jpg" alt="Dr. Alan B. Bennett Photo"  width="150px" style="float: left" /> 
-
-Dr. Bennett is a distinguished professor at Department of Plant Sciences at UC-Davis. He is also director of Public Intellectual Resource for Agriculture (PIPRA). His lab is mostly focused on the study of tomato fruit development and ripening, cell wall disassembly, plant association with diazotrophic microbiomes using molecular biology approach. He is also an AAAs fellow. Dr. Bennett’s team recently discovered a nitrogen fixing Maize landraces which opens up the new avenues in understanding and application of biological nitrogen fixation in cereals crops.
-<a href="https://biology.ucdavis.edu/people/alan-bennett/" target="_blank"> Dr. Alan B. Bennett </a>
+Dr. Guerinot is the Ronald and Deborah Harris Professor in the Department of Biological Sciences at Dartmouth College. 
+<a href="https://biology.dartmouth.edu/people/mary-lou-guerinot" target="_blank"> Dr. Mary Lou Guerinot </a>
 
 <hr style="clear: both;" />
 
+### Dr. Todd C. Mockler, Donald Danforth Plant Science Center, St. Louis, MO
 
-### Dr. Patricia Springer, Department of Botany and Plant Sciences, University of California,Riverside, CA
+<img src="/img/2020Mockler.png" alt="Dr. Todd C. Mockler Photo" width="150px" style="float: left" /> 
 
-<img src="/img/patricia2019.jpg" alt="Dr. Patricia Springer Photo" width="150px" style="float: left" /> 
+Dr. Mockler is the Geraldine and Robert Virgil distinguished investigator at the Donald Danforth Plant Science Center. He has helped lead several international consortia that have sequenced plant genomes, including the Brachypodium distachyon, Oropetium thomaeum, strawberry, and black raspberry genomes and the sorghum pan-genome project. His research has also included the development of genomic and bioinformatic tools, with the end goal of improving crop performance and yield. Areas of study include gene regulatory networks, plant abiotic stress responses, genome sequencing and analysis, and high-throughput phenotyping. His published work provides critical tools and approaches for using large-scale multi-omics datasets to understand complex biological systems. In 2012, Dr. Mockler co-founded Benson Hill Biosystems, a crop improvement company unlocking the natural diversity of plants. 
+<a href="https://www.danforthcenter.org/scientists-research/principal-investigators/todd-mockler" target="_blank"> Dr. Todd C. Mockler </a>
 
-Dr. Springer is department chair of Botany and Plant sciences and professor of genetics at UC Riverside. Dr. Springer’s lab focusses on understanding the molecular events that regulate the development of leaves and other lateral organs that initiate the shoot apical meristem. Her lab is interested in understanding mechanisms that control the formation of a boundary between the SAM and organ primordia in the model plant Arabidopsis thaliana. 
-<a href="http://cepceb.ucr.edu/people/springer.html/" target="_blank"> Dr. Paticia Springer </a>
+
+
+<hr style="clear: both;" />
+## Speakers on 20st February, 2020
 <hr style="clear: both;" />
 
-### Dr. Petra Wolters, Plant Breeding, Research & Development, Corteva Agriscience ™, New Holland, PA
+### Dr. Lindsay Springer, The Good Food Institute, Seneca Falls, NY
 
-<img src="/img/petra.jpg" alt="Dr. Petra Wolters Photo" width="150px" style="float: left" /> 
+<img src="/img/2020Springer.png" alt="Dr. Lindsay Springer Photo"  width="150px" style="float: left" /> 
 
-Dr. Wolters is leading the Global Plant Pathology group at Corteva Agriscience ™.  Her team focuses on providing Plant Pathology support for the global plant breeding organization.  Responsibilities of the group include inoculum production, assay development, phenotyping, phytosanitary processes and disease diagnostics.  Her group also studies plant pathogens and is interested in understanding pathogen genetics as it relates to interactions with plant genes that are involved in conferring disease resistance.  
+Dr. Springer is Senior Scientist, Plant-Based Specialization at the Good Food Institute. Dr. Springer forges pathways to accelerate plant-based meat, egg and dairy adoption through ideation, formulation and raw ingredient improvement. Synthesizing her knowledge of plant chemistry and food science, she is driven to see new technologies invoke food system changes from the field to the lab to the marketplace. 
+<a href="https://www.gfi.org/our-team" target="_blank"> Dr. Lindsay Springer </a>
+
 <hr style="clear: both;" />
 
-## Abstract Speakers on 21st Feb, 2019
+### Dr. Nonoy Bandillo, Department of Plant Sciences, North Dakota State University, Fargo, ND
+
+<img src="/img/2020Bandillo.png" alt="Dr. Nonoy Bandillo Photo" width="150px" style="float: left" /> 
+
+Nonoy Bandillo is an assistant professor in the Department of Plant Sciences at North Dakota State University (NDSU). He directs the pulse crops breeding and genetics program (https://pulsecropsbreeding.weebly.com/) for the NDSU, which releases new cultivars of pea, chickpea and lentil for the Northern Great Plains region. Specific goal of the program is to develop early maturing high-yielding cultivars and germplasm with improved disease resistance, excellent agronomic performance, and superior quality attributes best suited for landscapes (soils and topography), climate, markets, and value-added potential for the Northern Great Plains region. Current research interests include development and evaluation of advanced breeding tools and emerging technologies, including genomic selection and high-throughput phenotyping, for increasing genetic gain in pulse crops. Bandillo teaches graduate courses on topics in plant breeding and quantitative genetics. 
+</n><a href="https://www.ag.ndsu.edu/plantsciences/people/faculty/bandillo" target="_blank"> Dr. Nonoy Bandillo </a>
+
+<hr style="clear: both;" />
+
+### Dr. Corteva, Plant Breeding, Research & Development, Corteva Agriscience ™, New Holland, PA
+
+###<img src="/img/petra.jpg" alt="Dr. Petra Wolters Photo" width="150px" style="float: left" /> 
+
+####Dr. Wolters is leading the Global Plant Pathology group at Corteva Agriscience ™.  Her team focuses on providing Plant Pathology support for the global plant breeding organization.  Responsibilities of the group include inoculum production, assay development, phenotyping, phytosanitary processes and disease diagnostics.  Her group also studies plant pathogens and is interested in understanding pathogen genetics as it relates to interactions with plant genes that are involved in conferring disease resistance.  
+
+###<hr style="clear: both;" />
+
+
+
+## Abstract Speakers on 20st February, 2020
 <hr style="clear: both;" />
 
 ### Ben Julius, Graduate Student, Division of Biological Sciences, University of Missouri-Columbia
-<img src="/img/Ben2019.jpg" alt="Ben Julius Photo" width="100px" style="float: left" />
-Title : An “a-maizing” connection between cell wall biosynthesis and carbohydrate partitioning: Brittle Stalk 2-Like3 encodes carbohydrate partitioning defective28
-<hr style="clear: both;" />
+###<img src="/img/Ben2019.jpg" alt="Ben Julius Photo" width="100px" style="float: left" />
+###Title : An “a-maizing” connection between cell wall biosynthesis and carbohydrate partitioning: Brittle Stalk 2-Like3 encodes carbohydrate partitioning defective28
+###<hr style="clear: both;" />
 
 ### Saima Shahid, Postdoctoral associate, Donald Danforth Plant Science Center
-<img src="/img/Saima2019.JPG" alt="Saima Shahid Photo" width="100px" style="float: left" /> 
-Title : Dynamic changes in genomic DNA methylation may contribute to soybean aphid virulence
-<hr style="clear: both;" />
+###<img src="/img/Saima2019.JPG" alt="Saima Shahid Photo" width="100px" style="float: left" /> 
+###Title : Dynamic changes in genomic DNA methylation may contribute to soybean aphid virulence
+###<hr style="clear: both;" />
 
 ### Kevin Rice, Assistant Professor, Department of Plant Sciences, University of Missouri-Columbia
-<img src="/img/Kevin2019b.JPG" alt="Kevin Rice Photo" width="100px" style="float: left" />
-Title : Cascading ecological effects of fungus emitted volatile organic compounds on plant and herbivore growth
-<hr style="clear: both;" />
+###<img src="/img/Kevin2019b.JPG" alt="Kevin Rice Photo" width="100px" style="float: left" />
+###Title : Cascading ecological effects of fungus emitted volatile organic compounds on plant and herbivore growth
+###<hr style="clear: both;" />
 
 ### Mary Happ, Graduate Student, Department of Agronomy & Horticulture, University of Nebraska-Lincoln
-<img src="/img/HappMary2019.jpg" alt="Mary Happ Photo" width="130px" style="float: left" />
-Title : Generating High Density, Low Cost Genotype Data in Soybean
-<hr style="clear: both;" />
-
-
-
-
-
-
-
+###<img src="/img/HappMary2019.jpg" alt="Mary Happ Photo" width="130px" style="float: left" />
+###Title : Generating High Density, Low Cost Genotype Data in Soybean
+###<hr style="clear: both;" />
