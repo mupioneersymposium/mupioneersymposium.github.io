@@ -42,7 +42,7 @@ Dr. Springer is Senior Scientist, Plant-Based Specialization at the Good Food In
 <img src="/img/2020Bandillo.png" alt="Dr. Nonoy Bandillo Photo" width="150px" style="float: left" /> 
 
 Nonoy Bandillo is an assistant professor in the Department of Plant Sciences at North Dakota State University (NDSU). He directs the pulse crops breeding and genetics program (https://pulsecropsbreeding.weebly.com/) for the NDSU, which releases new cultivars of pea, chickpea and lentil for the Northern Great Plains region. Specific goal of the program is to develop early maturing high-yielding cultivars and germplasm with improved disease resistance, excellent agronomic performance, and superior quality attributes best suited for landscapes (soils and topography), climate, markets, and value-added potential for the Northern Great Plains region. Current research interests include development and evaluation of advanced breeding tools and emerging technologies, including genomic selection and high-throughput phenotyping, for increasing genetic gain in pulse crops. Bandillo teaches graduate courses on topics in plant breeding and quantitative genetics. 
-</n><a href="https://www.ag.ndsu.edu/plantsciences/people/faculty/bandillo" target="_blank"> Dr. Nonoy Bandillo </a>
+<a href="https://www.ag.ndsu.edu/plantsciences/people/faculty/bandillo" target="_blank"> Dr. Nonoy Bandillo </a>
 
 <hr style="clear: both;" />
 
