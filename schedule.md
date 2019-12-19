@@ -3,8 +3,8 @@ layout: regular
 ---
 
 <hr style="clear: both;" />
-
-<img src="/img/finalschedule2019.jpg" style="max-width:100%"/>
-
+# Schedule
+<hr style="clear: both;" />
+#### - To be announced -
 
 
