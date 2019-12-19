@@ -16,7 +16,7 @@ Dr. Guerinot is the Ronald and Deborah Harris Professor in the Department of Bio
 ## Dr. Todd Mockler <br/>
 #### *Donald Danforth Plant Science Center, St. Louis, MO* <br/>
 #### <a href="https://www.danforthcenter.org/scientists-research/principal-investigators/todd-mockler" target="_blank"> *Website - Dr. Todd Mockler* </a>
-<img src="/img/2020Mockler.png" alt="Dr. Todd C. Mockler Photo" width="180px" style="float: right" /> 
+<img src="/img/2020Mockler.png" alt="Dr. Todd C. Mockler Photo" width="180px" style="float: left" /> 
 
 Dr. Mockler is the Geraldine and Robert Virgil distinguished investigator at the Donald Danforth Plant Science Center. He has helped lead several international consortia that have sequenced plant genomes, including the Brachypodium distachyon, Oropetium thomaeum, strawberry, and black raspberry genomes and the sorghum pan-genome project. His research has also included the development of genomic and bioinformatic tools, with the end goal of improving crop performance and yield. Areas of study include gene regulatory networks, plant abiotic stress responses, genome sequencing and analysis, and high-throughput phenotyping. His published work provides critical tools and approaches for using large-scale multi-omics datasets to understand complex biological systems. In 2012, Dr. Mockler co-founded Benson Hill Biosystems, a crop improvement company unlocking the natural diversity of plants.
 <br/><br/><br/><br/><br/>
@@ -36,7 +36,7 @@ Dr. Springer is Senior Scientist, Plant-Based Specialization at the Good Food In
 ## Dr. Nonoy Bandillo <br/>
 #### *Department of Plant Sciences, North Dakota State University, Fargo, ND* <br/>
 #### <a href="https://www.ag.ndsu.edu/plantsciences/people/faculty/bandillo" target="_blank"> *Website - Dr. Nonoy Bandillo* </a>
-<img src="/img/2020Bandillo.png" alt="Dr. Nonoy Bandillo Photo" width="180px" style="float: right" /> 
+<img src="/img/2020Bandillo.png" alt="Dr. Nonoy Bandillo Photo" width="180px" style="float: left" /> 
 
 Dr. Bandillo is an assistant professor in the Department of Plant Sciences at North Dakota State University (NDSU). He directs the pulse crops breeding and genetics program (https://pulsecropsbreeding.weebly.com/) for the NDSU, which releases new cultivars of pea, chickpea and lentil for the Northern Great Plains region. Specific goal of the program is to develop early maturing high-yielding cultivars and germplasm with improved disease resistance, excellent agronomic performance, and superior quality attributes best suited for landscapes (soils and topography), climate, markets, and value-added potential for the Northern Great Plains region. Current research interests include development and evaluation of advanced breeding tools and emerging technologies, including genomic selection and high-throughput phenotyping, for increasing genetic gain in pulse crops. Bandillo teaches graduate courses on topics in plant breeding and quantitative genetics.
 <br/><br/><br/>
