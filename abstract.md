@@ -7,7 +7,7 @@ layout: regular
 # Abstract
 <hr style="clear: both;" />
 **Abstracts for oral and poster presentations should be in line with the theme of the symposium: Applications of Modern Technology from Lab to Field** <br />
-**Therefore, it must address how one's research can at some point improve agriculture**
+**Therefore, these must address how one's research can at some point improve agriculture**
 <hr style="clear: both;" />
 **Deadline: 15th January, 2020 at 11:59PM (CT)**
 <hr style="clear: both;" />
