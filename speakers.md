@@ -6,7 +6,7 @@ layout: regular
 # Keynote Speakers
 <hr style="clear: both;" />
 ## Dr. Mary Lou Guerinot <br />
-#### Department of Biological Sciences, Dartmouth College, Hanover, NH
+### Department of Biological Sciences, Dartmouth College, Hanover, NH
 <img src="/img/2020Guerinot.png" alt="Dr. Mary Lou Guerinot Photo" width="150px" style="float: left" /> 
 
 Dr. Guerinot is the Ronald and Deborah Harris Professor in the Department of Biological Sciences at Dartmouth College. She pioneered research on metal metabolism in plants through key discoveries of genes involved in major transport processes for minerals such as iron and zinc. Her research is critically important for both agriculture and human nutrition since iron and zinc deficiencies affect billions of humans that rely upon crop-based diets.
@@ -14,12 +14,12 @@ Dr. Guerinot is the Ronald and Deborah Harris Professor in the Department of Bio
 
 <hr style="clear: both;" />
 ## Dr. Todd C. Mockler <br />
-**Donald Danforth Plant Science Center, St. Louis, MO
+###Donald Danforth Plant Science Center, St. Louis, MO
 <img src="/img/2020Mockler.png" alt="Dr. Todd C. Mockler Photo" width="150px" style="float: left" /> 
 
 Dr. Mockler is the Geraldine and Robert Virgil distinguished investigator at the Donald Danforth Plant Science Center. He has helped lead several international consortia that have sequenced plant genomes, including the Brachypodium distachyon, Oropetium thomaeum, strawberry, and black raspberry genomes and the sorghum pan-genome project. His research has also included the development of genomic and bioinformatic tools, with the end goal of improving crop performance and yield. Areas of study include gene regulatory networks, plant abiotic stress responses, genome sequencing and analysis, and high-throughput phenotyping. His published work provides critical tools and approaches for using large-scale multi-omics datasets to understand complex biological systems. In 2012, Dr. Mockler co-founded Benson Hill Biosystems, a crop improvement company unlocking the natural diversity of plants.
 <a href="https://www.danforthcenter.org/scientists-research/principal-investigators/todd-mockler" target="_blank"> Dr. Todd C. Mockler </a>
-<br /><br /><br />
+<br /><br /><br /><br /><br />
 
 
 <hr style="clear: both;" />
@@ -43,7 +43,7 @@ Dr. Bandillo is an assistant professor in the Department of Plant Sciences at No
 <hr style="clear: both;" />
 ## A Corteva speaker <br />
 **- to be announced - 
-<br /><br /><br />
+<br /><br /><br /><br /><br />
 
 
 <hr style="clear: both;" />
