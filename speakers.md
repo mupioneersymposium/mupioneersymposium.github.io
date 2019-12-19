@@ -43,7 +43,7 @@ Prior to joining NDSU, he was a postdoctoral research associate at the Buckler L
 <br/><br/><br/>
 
 ## A Corteva speaker <br/>
-#### - to be announced - 
+#### - To be announced -
 <br/><br/><br/><br/><br/>
 
 
