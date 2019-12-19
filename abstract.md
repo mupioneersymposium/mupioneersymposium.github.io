@@ -2,15 +2,14 @@
 layout: regular
 ---
 
-
-<img src="/posterview.jpg" style="max-width:95%"/> 
-
 <hr style="clear: both;" />
-## Abstracts for poster and or talk should be in line with the theme of the symposium, and therefore must address how one's research can at some point improve agriculture. 
+<img src="/posterview.jpg" style="max-width:95%"/>
+# Abstract
 <hr style="clear: both;" />
-## **Deadline for the poster abstract submission is : 10 February, 2019 at 11:59PM** (Oral abstract submission is closed now)
+**Abstracts for oral and poster presentation should be in line with the theme of the symposium: applications of Modern Technology from Lab to Field.** <br />
+**Therefore must address how one's research can at some point improve agriculture.**
 <hr style="clear: both;" />
-## Poster abstract submission is **CLOSED** now.
+**Deadline: 15th January, 2020 at 11:59PM (CT)**
 <hr style="clear: both;" />
-
-<p><a href="https://docs.google.com/forms/d/1DoqelMaDb3G1-tG3Tqr9EpXLK9OzPJ8J4OuMiPRZNrg/" target="_blank" class="btn btn-primary btn-xl page-scroll">Submit your abstract</a></p>
+Please follow the link for the abstract submission. <a href="https://docs.google.com/forms/d/1EO5J7HiNENp6UNMuPhC3KXK_H6HspYMciJ331vkofdQ/edit" target="_blank"> Please click here
+<hr style="clear: both;" />
