@@ -14,11 +14,11 @@ Dr. Guerinot is the Ronald and Deborah Harris Professor in the Department of Bio
 <br/><br/><br/>
 
 ## Dr. Todd Mockler <br/>
-#### *Donald Danforth Plant Science Center, St. Louis, MO*
+#### *Donald Danforth Plant Science Center, St. Louis, MO* <br/>
+#### <a href="https://www.danforthcenter.org/scientists-research/principal-investigators/todd-mockler" target="_blank"> *Website: Dr. Todd Mockler* </a>
 <img src="/img/2020Mockler.png" alt="Dr. Todd C. Mockler Photo" width="180px" style="float: right" /> 
 
-Dr. Mockler is the Geraldine and Robert Virgil distinguished investigator at the Donald Danforth Plant Science Center. He has helped lead several international consortia that have sequenced plant genomes, including the Brachypodium distachyon, Oropetium thomaeum, strawberry, and black raspberry genomes and the sorghum pan-genome project. His research has also included the development of genomic and bioinformatic tools, with the end goal of improving crop performance and yield. Areas of study include gene regulatory networks, plant abiotic stress responses, genome sequencing and analysis, and high-throughput phenotyping. His published work provides critical tools and approaches for using large-scale multi-omics datasets to understand complex biological systems. In 2012, Dr. Mockler co-founded Benson Hill Biosystems, a crop improvement company unlocking the natural diversity of plants. <br/>
-##### <a href="https://www.danforthcenter.org/scientists-research/principal-investigators/todd-mockler" target="_blank"> Website: Dr. Todd Mockler </a>
+Dr. Mockler is the Geraldine and Robert Virgil distinguished investigator at the Donald Danforth Plant Science Center. He has helped lead several international consortia that have sequenced plant genomes, including the Brachypodium distachyon, Oropetium thomaeum, strawberry, and black raspberry genomes and the sorghum pan-genome project. His research has also included the development of genomic and bioinformatic tools, with the end goal of improving crop performance and yield. Areas of study include gene regulatory networks, plant abiotic stress responses, genome sequencing and analysis, and high-throughput phenotyping. His published work provides critical tools and approaches for using large-scale multi-omics datasets to understand complex biological systems. In 2012, Dr. Mockler co-founded Benson Hill Biosystems, a crop improvement company unlocking the natural diversity of plants.
 <br/><br/><br/><br/><br/>
 
 
