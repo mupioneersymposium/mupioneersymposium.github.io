@@ -3,7 +3,7 @@ layout: regular
 ---
 
 <hr style="clear: both;" />
-# Travel Awards 
+# Travel Award
 <hr style="clear: both;" />
 
 Travel Award applications and abstract submissions are now open for the 4<sup>th</sup> Annual MU Plant Research Symposium. Applications and submissions will be accepted until 15<sup>th</sup> January, 2020 at 11:59PM (CT).
