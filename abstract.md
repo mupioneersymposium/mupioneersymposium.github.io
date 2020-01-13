@@ -7,7 +7,7 @@ layout: regular
 # Abstract
 <hr style="clear: both;" />
 **Abstract submission is open for the 4<sup>th</sup> annual MU Plant Research Symposium** <br/>
-**Deadline: 15<sup>th</sup> January, 2020 at 11:59PM (CT)**
+**Deadline: 1<sup>st</sup> February, 2020 at 11:59PM (CT)**
 <hr style="clear: both;" />
 **Abstracts for oral and poster presentations should be in line with the theme of the symposium: Applications of Modern Technology from Lab to Field.** <br />
 **Therefore, these must address how one's research can at some point improve agriculture**
