@@ -47,7 +47,8 @@ Dr. Janni is a Corteva Agriscience Fellow and senior technology leader in R&D. H
 # Abstract Speakers
 <hr style="clear: both;" />
 <img src="/img/2020Shannon.png" alt="Shannon King Photo" width="100px" style="float: left" />
-**Shannon King, Ph.D. Candidate, Department of Biochemistry, University of Missouri-Columbia** <br/>
+**Shannon King, Ph.D. Candidate**<br/>
+****Department of Biochemistry, University of Missouri-Columbia**** <br/>
 Title : A Field-based Transcriptomic Approach to Uncovering the Molecular Mechanisms of Maize Nodal Root Growth during Drough
 <hr style="clear: both;" />
 
