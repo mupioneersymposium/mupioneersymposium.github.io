@@ -40,28 +40,28 @@ Prior to joining NDSU, he was a postdoctoral research associate at the Buckler L
 <img src="/img/2020Janni.png" alt="Dr. James Janni Photo"  width="180px" style="float: left" /> 
 
 Dr. Janni is a Corteva Agriscience Fellow and senior technology leader in R&D. He earned his BS in chemistry from Iowa State University and PhD in physical chemistry from MIT. He started his career building spectrometers and sensors for landmine detection under the DARPA dog’s nose project, a natural extension of his studies in vibrational spectroscopic detection of explosive vapors. Technology and method development have been the focus of his career since. He came to Pioneer to develop Raman spectroscopy for amino acid characterization in grain. This project quickly shifted to the development of single seed NIR hardware, software and predictive analytics for characterizing segregating populations of oil modified seeds. He then assembled a team to examine the value in improving seed analysis with spectral imaging. Dr. Janni joined a team that combined predictive analytics and metabolomics to predict phenotypes in the greenhouse and field using greenhouse imaging. He recognized the needed sensitivity to stressors in the field and UAS sensing was born from deploying hyperspectral to the field. He collaborated with many to demonstrate the value of UAS field sensing. The work in NIR grain analysis, greenhouse hyperspectral imaging, and UAS sensor, platform and algorithm development continues in his group today with broad applications and connections to other Corteva functions. James was recently named to the inaugural class of Research Fellows at Corteva..  
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
 
 <hr style="clear: both;" />
 # Abstract Speakers
 <hr style="clear: both;" />
-<img src="/img/2020Shannon.png" alt="Shannon King Photo" width="130px" style="float: left" />
+<img src="/img/2020Shannon.png" alt="Shannon King Photo" width="100px" style="float: left" />
 **Shannon King, Ph.D. Candidate, Department of Biochemistry, University of Missouri-Columbia** <br/>
 Title : A Field-based Transcriptomic Approach to Uncovering the Molecular Mechanisms of Maize Nodal Root Growth during Drough
 <hr style="clear: both;" />
 
-<img src="/img/2020Nakian.jpg" alt="Nakian Kim Photo" width="130px" style="float: left" /> 
+<img src="/img/2020Nakian.jpg" alt="Nakian Kim Photo" width="100px" style="float: left" /> 
 **Nakian Kim, Graduate Student, Department of Crop Sciences, University of Illinois, Urbana-Champaign** <br/>
 Title : Do cover crops benefit soil microbiome? A meta-analysis of current research
 <hr style="clear: both;" />
 
-<img src="/img/2020Jaspreet.jpg" alt="Jaspreet Sandhu Photo" width="130px" style="float: left" />
+<img src="/img/2020Jaspreet.jpg" alt="Jaspreet Sandhu Photo" width="100px" style="float: left" />
 **Jaspreet Sandhu, Graduate Student, Department of Agronomy & Horticulture, University of Nebraska - Lincoln** <br/>
 Title : Temporal Dynamics of Heat Stress Response during Early Seed Development in Rice
 <hr style="clear: both;" />
 
-<img src="/img/2020Vivek.png" alt="Vivek Shrestha Photo" width="130px" style="float: left" />
+<img src="/img/2020Vivek.png" alt="Vivek Shrestha Photo" width="100px" style="float: left" />
 **Vivek Shrestha, Graduate Student, Division of Biological Sciences, University of Missouri-Columbia** <br/>
 Title : Uncovering the Genetic Architecture of Protein Bound Amino Acids in Maize Kernels using Multi-omics Integration
 <hr style="clear: both;" />
