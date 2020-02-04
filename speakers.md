@@ -46,23 +46,23 @@ Dr. Janni is a Corteva Agriscience Fellow and senior technology leader in R&D. H
 <hr style="clear: both;" />
 # Abstract Speakers
 <hr style="clear: both;" />
-### Shannon King, Ph.D. Candidate, Department of Biochemistry, University of Missouri-Columbia
 <img src="/img/2020Shannon.png" alt="Shannon King Photo" width="100px" style="float: left" />
+**Shannon King, Ph.D. Candidate, Department of Biochemistry, University of Missouri-Columbia** <br/>
 Title : A Field-based Transcriptomic Approach to Uncovering the Molecular Mechanisms of Maize Nodal Root Growth during Drough
 <hr style="clear: both;" />
 
-### Nakian Kim, Graduate Student, Department of Crop Sciences, University of Illinois, Urbana-Champaign
+#### Nakian Kim, Graduate Student, Department of Crop Sciences, University of Illinois, Urbana-Champaign
 <img src="/img/2020Nakian.jpg" alt="Nakian Kim Photo" width="100px" style="float: left" /> 
 Title : Do cover crops benefit soil microbiome? A meta-analysis of current research
 <hr style="clear: both;" />
 
-### Jaspreet Sandhu, Graduate Student, Department of Agronomy & Horticulture, University of Nebraska - Lincoln
+#### Jaspreet Sandhu, Graduate Student, Department of Agronomy & Horticulture, University of Nebraska - Lincoln
 <img src="/img/2020Jaspreet.jpg" alt="Jaspreet Sandhu Photo" width="100px" style="float: left" />
 Title : Temporal Dynamics of Heat Stress Response during Early Seed Development in Rice
 <hr style="clear: both;" />
 
-### Vivek Shrestha, Graduate Student, Division of Biological Sciences, University of Missouri-Columbia
 <img src="/img/2020Vivek.png" alt="Vivek Shrestha Photo" width="100px" style="float: left" />
+**Vivek Shrestha, Graduate Student, Division of Biological Sciences, University of Missouri-Columbia** <br/>
 Title : Uncovering the Genetic Architecture of Protein Bound Amino Acids in Maize Kernels using Multi-omics Integration
 <hr style="clear: both;" />
 
