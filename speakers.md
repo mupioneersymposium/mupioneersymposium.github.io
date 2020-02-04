@@ -50,19 +50,19 @@ Dr. Janni is a Corteva Agriscience Fellow and senior technology leader in R&D. H
 **Shannon King, Ph.D. Candidate** <br/>
 ***Department of Biochemistry, University of Missouri-Columbia*** <br/>
 Title : A Field-based Transcriptomic Approach to Uncovering the Molecular Mechanisms of Maize Nodal Root Growth during Drough
-<br/><br/>
+<br/><br/><br/>
 
 <img src="/img/2020Nakian.jpg" alt="Nakian Kim Photo" width="110px" style="float: left" /> 
 **Nakian Kim, Graduate Student** <br/>
 ***Department of Crop Sciences, University of Illinois, Urbana-Champaign*** <br/>
 Title : Do cover crops benefit soil microbiome? A meta-analysis of current research
-<br/><br/>
+<br/><br/><br/>
 
 <img src="/img/2020Jaspreet.jpg" alt="Jaspreet Sandhu Photo" width="110px" style="float: left" />
 **Jaspreet Sandhu, Graduate Student** <br/>
 ***Department of Agronomy & Horticulture, University of Nebraska - Lincoln*** <br/>
 Title : Temporal Dynamics of Heat Stress Response during Early Seed Development in Rice
-<br/><br/>
+<br/><br/><br/>
 
 <img src="/img/2020Vivek.png" alt="Vivek Shrestha Photo" width="110px" style="float: left" />
 **Vivek Shrestha, Graduate Student** <br/>
