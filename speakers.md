@@ -25,14 +25,6 @@ Mockler is the Geraldine and Robert Virgil distinguished investigator at the Don
 <hr style="clear: both;" />
 # Invited speakers
 <hr style="clear: both;" />
-## Dr. Lindsay Springer <br/>
-#### *The Good Food Institute, Seneca Falls, NY* <br/>
-#### <a href="https://www.gfi.org/our-team" target="_blank"> *Website - Dr. Lindsay Springer* </a>
-<img src="/img/2020Springer.png" alt="Dr. Lindsay Springer Photo"  width="180px" style="float: left" /> 
-
-Dr. Springer is a senior Scientist, Plant-Based Specialization at the Good Food Institute. She holds a B.S. in Biomedical Sciences and M.S. degrees in Pharmaceutical and Biomaterials Sciences from the University at Buffalo.  She received her Ph.D. in Food Science and Technology from Cornell University where she also pursued postdoctoral research experience in the School of Integrative Plant Sciences. Dr. Springer forges pathways to accelerate plant-based meat, egg and dairy adoption through ideation, formulation and raw ingredient improvement. Synthesizing her knowledge of plant chemistry and food science, she is driven to see new technologies invoke food system changes from the field to the lab to the marketplace.  
-<br/><br/><br/>
-
 ## Dr. Nonoy Bandillo <br/>
 #### *Department of Plant Sciences, North Dakota State University, Fargo, ND* <br/>
 #### <a href="https://www.ag.ndsu.edu/plantsciences/people/faculty/bandillo" target="_blank"> *Website - Dr. Nonoy Bandillo* </a>
@@ -40,15 +32,39 @@ Dr. Springer is a senior Scientist, Plant-Based Specialization at the Good Food 
 
 Dr. Bandillo is an assistant professor in the Department of Plant Sciences at North Dakota State University (NDSU). He directs the pulse crops breeding and genetics program (https://pulsecropsbreeding.weebly.com/) for the NDSU, which releases new cultivars of pea, chickpea and lentil for the Northern Great Plains region. Specific goal of the program is to develop early maturing high-yielding cultivars and germplasm with improved disease resistance, excellent agronomic performance, and superior quality attributes best suited for landscapes (soils and topography), climate, markets, and value-added potential for the Northern Great Plains region. Current research interests include development and evaluation of advanced breeding tools and emerging technologies, including genomic selection and high-throughput phenotyping, for increasing genetic gain in pulse crops. Bandillo teaches graduate courses on topics in plant breeding and quantitative genetics. <br/>
 Prior to joining NDSU, he was a postdoctoral research associate at the Buckler Lab at Cornell University in maize and sorghum quantitative genetics. He began his career as an assistant scientist in rice breeding and genetics at the International Rice Research Institute, where he was part of a team that pioneered the development of Multi-parent Advanced Generation Inter-Cross (MAGIC) populations in rice. Bandillo received his Ph.D. at the University of Nebraska-Lincoln, where he worked on the integration of genomic selection in a soybean breeding program and tapping of diversity in the USDA Soybean Germplasm Collection. 
-<br/><br/><br/>
+<br/><br/>
 
-## A Corteva speaker <br/>
-#### - To be announced -
+## Dr. James Janni <br/>
+#### *Corteva Agroscience, Johnston, IA* <br/>
+#### <a href="https://www.linkedin.com/in/james-janni-1065a214/" target="_blank"> *Website - Dr. James Janni* </a>
+<img src="/img/2020Janni.png" alt="Dr. James Janni Photo"  width="180px" style="float: left" /> 
+
+Dr. Janni is a Corteva Agriscience Fellow and senior technology leader in R&D. He earned his BS in chemistry from Iowa State University and PhD in physical chemistry from MIT. He started his career building spectrometers and sensors for landmine detection under the DARPA dog’s nose project, a natural extension of his studies in vibrational spectroscopic detection of explosive vapors. Technology and method development have been the focus of his career since. He came to Pioneer to develop Raman spectroscopy for amino acid characterization in grain. This project quickly shifted to the development of single seed NIR hardware, software and predictive analytics for characterizing segregating populations of oil modified seeds. He then assembled a team to examine the value in improving seed analysis with spectral imaging. Dr. Janni joined a team that combined predictive analytics and metabolomics to predict phenotypes in the greenhouse and field using greenhouse imaging. He recognized the needed sensitivity to stressors in the field and UAS sensing was born from deploying hyperspectral to the field. He collaborated with many to demonstrate the value of UAS field sensing. The work in NIR grain analysis, greenhouse hyperspectral imaging, and UAS sensor, platform and algorithm development continues in his group today with broad applications and connections to other Corteva functions. James was recently named to the inaugural class of Research Fellows at Corteva..  
 <br/><br/><br/><br/><br/>
 
 
 <hr style="clear: both;" />
 # Abstract Speakers
 <hr style="clear: both;" />
-#### - To be announced -
+### Shannon King, Ph.D. Candidate, Department of Biochemistry, University of Missouri-Columbia
+<img src="/img/2020Shannon.jpg" alt="Shannon King Photo" width="100px" style="float: left" />
+Title : A Field-based Transcriptomic Approach to Uncovering the Molecular Mechanisms of Maize Nodal Root Growth during Drough
+<hr style="clear: both;" />
+
+### Nakian Kim, Graduate Student, Department of Crop Sciences, University of Illinois, Urbana-Champaign
+<img src="/img/2020Nakian.jpg" alt="Nakian Kim Photo" width="100px" style="float: right" /> 
+Title : Do cover crops benefit soil microbiome? A meta-analysis of current research
+<hr style="clear: both;" />
+
+### Jaspreet Sandhu, Graduate Student, Department of Agronomy & Horticulture, University of Nebraska - Lincoln
+<img src="/img/2020Jaspreet.jpg" alt="Jaspreet Sandhu Photo" width="100px" style="float: left" />
+Title : Temporal Dynamics of Heat Stress Response during Early Seed Development in Rice
+<hr style="clear: both;" />
+
+### Vivek Shrestha, Graduate Student, Division of Biological Sciences, University of Missouri-Columbia
+<img src="/img/2020Vivek.jpg" alt="Vivek Shrestha Photo" width="100px" style="float: right" />
+Title : Uncovering the Genetic Architecture of Protein Bound Amino Acids in Maize Kernels using Multi-omics Integration
+<hr style="clear: both;" />
+
+
 
