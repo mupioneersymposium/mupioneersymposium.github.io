@@ -49,25 +49,25 @@ Dr. Janni is a Corteva Agriscience Fellow and senior technology leader in R&D. H
 <img src="/img/2020Shannon.png" alt="Shannon King Photo" width="110px" style="float: left" />
 **Shannon King, Ph.D. Candidate** <br/>
 ***Department of Biochemistry, University of Missouri-Columbia*** <br/>
-Title : A Field-based Transcriptomic Approach to Uncovering the Molecular Mechanisms of Maize Nodal Root Growth during Drough
+Title: A Field-based transcriptomic approach to uncovering the molecular mechanisms of maize nodal root growth during drought
 <br/><br/><br/>
 
 <img src="/img/2020Nakian.jpg" alt="Nakian Kim Photo" width="110px" style="float: left" /> 
 **Nakian Kim, Graduate Student** <br/>
 ***Department of Crop Sciences, University of Illinois, Urbana-Champaign*** <br/>
-Title : Do cover crops benefit soil microbiome? A meta-analysis of current research
+Title: Do cover crops benefit soil microbiome? A meta-analysis of current research
 <br/><br/><br/>
 
 <img src="/img/2020Jaspreet.jpg" alt="Jaspreet Sandhu Photo" width="110px" style="float: left" />
 **Jaspreet Sandhu, Graduate Student** <br/>
 ***Department of Agronomy & Horticulture, University of Nebraska - Lincoln*** <br/>
-Title : Temporal Dynamics of Heat Stress Response during Early Seed Development in Rice
+Title: Temporal Dynamics of Heat Stress Response during Early Seed Development in Rice
 <br/><br/><br/>
 
 <img src="/img/2020Vivek.png" alt="Vivek Shrestha Photo" width="110px" style="float: left" />
 **Vivek Shrestha, Graduate Student** <br/>
 ***Division of Biological Sciences, University of Missouri-Columbia*** <br/>
-Title : Uncovering the Genetic Architecture of Protein Bound Amino Acids in Maize Kernels using Multi-omics Integration
+Title: Uncovering the Genetic Architecture of Protein Bound Amino Acids in Maize Kernels using Multi-omics Integration
 <br/>
 
 
