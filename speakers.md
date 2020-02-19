@@ -58,6 +58,12 @@ Title: A Field-based transcriptomic approach to uncovering the molecular mechani
 Title: Do cover crops benefit soil microbiome? A meta-analysis of current research
 <br/><br/><br/>
 
+<img src="/img/2020Clayton.jpg" alt="Clayton Kranawetter Photo" width="110px" style="float: left" />
+**Clayton Kranawetter, Graduate Student** <br/>
+***Department of Biochemistry, University of Missouri-Columbian*** <br/>
+Title: Cell Specific Metabolism of Medicago truncatula Root Border Cells
+<br/><br/><br/>
+
 <img src="/img/2020Jaspreet.jpg" alt="Jaspreet Sandhu Photo" width="110px" style="float: left" />
 **Jaspreet Sandhu, Graduate Student** <br/>
 ***Department of Agronomy & Horticulture, University of Nebraska - Lincoln*** <br/>
