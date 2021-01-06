@@ -7,7 +7,7 @@ layout: regular
 <hr style="clear: both;" />
 # Abstract
 <hr style="clear: both;" />
-**Abstract submission for both 'Abstract Speaker Presentation' and 'Lightening Talk' is open for the 5<sup>th</sup> annual MU Plant Research Symposium** <br/>
+**Abstract submission for both 'Abstract Presentation' and 'Lightening Talk' is open for the 5<sup>th</sup> annual MU Plant Research Symposium** <br/>
 <br/>
 **Deadline: 31 January, 2021 by 11:59PM (CT)**
 <br/><br/><br/>
@@ -21,7 +21,7 @@ Please follow the link for the abstract submission. <a href="https://docs.google
 <hr style="clear: both;" />
 **What are the differences between Abstract Speaker Presentation and Lightening Talk?
 <hr style="clear: both;" />
-## *Abstract Speaker Presentation:*
+## *Abstract Presentation:*
 The symposium committee will select four abstracts for the Abstract Speaker Presentation based on the work importance, the new and exciting research findings, and accessibility to a broad audience. Authors of abstracts selected for oral presentations will be informed by email mupltsciplantrese1@umsystem.edu by February 10th, 2021.
 <br/><br/>
 The allocated time for the presentation is 15 minutes followed by 5 minutes for questions. The applicants not selected for the Abstract Speaker Presentation will be considered for Lightning Talks upon request.
