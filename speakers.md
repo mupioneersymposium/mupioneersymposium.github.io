@@ -6,7 +6,7 @@ layout: regular
 # Keynote Speakers
 <hr style="clear: both;" />
 ## Dr. Philip Poole <br/>
-#### *Department of Plant Sciences, University of Oxford, Oxford OX1 3RB, United Kingdom* <br/>
+#### *Department of Plant Sciences, University of Oxford, Oxford, United Kingdom* <br/>
 #### <a href="https://www.plants.ox.ac.uk/people/phil-poole#tab-2059586" target="_blank"> *Website - Dr. Philip Poole* </a>
 <br/>
 
