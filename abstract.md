@@ -15,9 +15,7 @@ layout: regular
 **Therefore, these must address how one's research can at some point improve agriculture**
 <br/><br/>
 Please follow the link for the abstract submission. <a href="https://docs.google.com/forms/d/e/1FAIpQLSdboRNFQZRiMRHCT4cOu78Mg9E0iv1sAy76VWY4l2xqpFj8FQ/viewform?usp=sf_link" target="_blank"> Please click here
-
-<br/><br/>
-
+<br/><br/><br/>
 <hr style="clear: both;" />
 ## What are the differences between Abstract Presentation and Lightening Talk?
 <hr style="clear: both;" />
