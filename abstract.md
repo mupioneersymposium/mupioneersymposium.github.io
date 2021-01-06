@@ -13,21 +13,24 @@ layout: regular
 <br/><br/><br/>
 **Abstracts should be in line with the theme of the symposium: The next green revolution: challenges and strategies towards a sustainable agriculture.** <br />
 **Therefore, these must address how one's research can at some point improve agriculture**
-<hr style="clear: both;" />
+
 Please follow the link for the abstract submission. <a href="https://docs.google.com/forms/d/e/1FAIpQLSdboRNFQZRiMRHCT4cOu78Mg9E0iv1sAy76VWY4l2xqpFj8FQ/viewform?usp=sf_link" target="_blank"> Please click here
-<hr style="clear: both;" />
+
 <br/><br/>
 
+<hr style="clear: both;" />
+**What are the differences between Abstract Speaker Presentation and Lightening Talk?
+<hr style="clear: both;" />
 ## *Abstract Speaker Presentation:*
 The symposium committee will select four abstracts for the Abstract Speaker Presentation based on the work importance, the new and exciting research findings, and accessibility to a broad audience. Authors of abstracts selected for oral presentations will be informed by email mupltsciplantrese1@umsystem.edu by February 10th, 2021.
-<br/>
+<br/><br/>
 The allocated time for the presentation is 15 minutes followed by 5 minutes for questions. The applicants not selected for the Abstract Speaker Presentation will be considered for Lightning Talks upon request.
 <br/><br/>
 
-## *Lightning talk:*
+## *Lightning Talk:*
 All lightning talk presenters are requested to record a 4-5 min long video presentation about their research. The videos will be available on the Symposium website and will be evaluated by a selected judge committee. All Lightning Talks will be accepted.
-<br/>
+<br/><br/>
 Video presentation will be send to mupltsciplantrese1@umsystem.edu due by February 22th, 2021. For your own video success, do not wait until the last minute to send it.
-<br/>
+<br/><br/>
 The top three presentations will receive a prize based on the video presentation and Panel Discussion participation.
 <hr style="clear: both;" />
