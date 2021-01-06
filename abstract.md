@@ -19,7 +19,7 @@ Please follow the link for the abstract submission. <a href="https://docs.google
 <br/><br/>
 
 <hr style="clear: both;" />
-**What are the differences between Abstract Speaker Presentation and Lightening Talk?
+## What are the differences between Abstract Speaker Presentation and Lightening Talk?
 <hr style="clear: both;" />
 ## *Abstract Presentation:*
 The symposium committee will select four abstracts for the Abstract Speaker Presentation based on the work importance, the new and exciting research findings, and accessibility to a broad audience. Authors of abstracts selected for oral presentations will be informed by email mupltsciplantrese1@umsystem.edu by February 10th, 2021.
@@ -33,4 +33,3 @@ All lightning talk presenters are requested to record a 4-5 min long video prese
 Video presentation will be send to mupltsciplantrese1@umsystem.edu due by February 22th, 2021. For your own video success, do not wait until the last minute to send it.
 <br/><br/>
 The top three presentations will receive a prize based on the video presentation and Panel Discussion participation.
-<hr style="clear: both;" />
