@@ -41,7 +41,6 @@ Philip Poole did his PhD on nitrogen fixation by Rhizobium born in Perth, Wester
 #### <a href="https://www.linkedin.com/in/sarah-craven-seaton-21895633/" target="_blank"> *Website - Dr. Sarah C. Seaton* </a>
 <img src="/img/2021SarahSeaton.png" alt="Dr. Sarah C. Seaton Photo"  width="180px" style="float: left" />
 Currently a Senior Scientist at the Boston-based microbiome company, Indigo Ag, Sarah leads a team of researchers responsible for isolation and characterization of beneficial plant-associated microbes that increase yield and decrease the need for chemical inputs in agricultural crops. The mission at Indigo—harnessing nature to help farmers sustainably feed the planet—combines her passion for and expertise in microbe-microbe and microbe-plant interactions and has direct application to an increasingly important global issue. 
-
 Sarah received BS degrees in Chemistry and Biology from High Point University and a PhD in Microbiology from the University of Georgia, where she studied the potential of soil bacteria to catabolize organic pollutants. After receiving her degree, Sarah completed post-doctoral research in plant-microbe interactions at Tufts University School of Medicine and worked as a Research Scientist at Harvard Medical School, studying the effect of the gut microbiome on metabolism and health. Before joining Indigo, Sarah was an Assistant Professor of Biology at the University of North Carolina Asheville, where her research lab focused on isolation of soil bacteria that produce antibiotics or other interesting natural products.
 <br/>
 
@@ -49,7 +48,8 @@ Sarah received BS degrees in Chemistry and Biology from High Point University an
 #### *Division of Plant Sciences, University of Missouri, Columbia, MO, United States* <br/>
 #### <a href="https://cafnr.missouri.edu/person/bing-yang/" target="_blank"> *Website - Dr. Bing Yang* </a>
 <img src="/img/2021BingYang.png" alt="Dr. Bing Yang Photo"  width="180px" style="float: left" />
-Dr. Bing Yang is a professor in the Division of Plant Sciences at the University of Missouri, and a member and Principal Investigator at Donald Danforth Plant Science Center. He received PhD degree in plant pathology at Kansas State University. The research of the Yang lab mainly focuses on 1) gaining a molecular understanding of host disease susceptibility and resistance to pathogenic microbes by using bacterial blight of rice as a disease model, and 2) developing and applying genome editing technologies for gene/trait discovery and for engineering improved traits such as disease resistance in crop plants. His group has developed a suite of toolsets for high-efficiency genome editing in crop plants such as rice, maize, wheat, sorghum and soybean.
+Dr. Bing Yang is a professor in the Division of Plant Sciences at the University of Missouri, and a member and Principal Investigator at Donald Danforth Plant Science Center. He received PhD degree in plant pathology at Kansas State University. 
+The research of the Yang lab mainly focuses on 1) gaining a molecular understanding of host disease susceptibility and resistance to pathogenic microbes by using bacterial blight of rice as a disease model, and 2) developing and applying genome editing technologies for gene/trait discovery and for engineering improved traits such as disease resistance in crop plants. His group has developed a suite of toolsets for high-efficiency genome editing in crop plants such as rice, maize, wheat, sorghum and soybean.
 <br/><br/><br/><br/><br/><br/>
 
 <hr style="clear: both;" />
