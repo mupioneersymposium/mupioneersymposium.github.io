@@ -24,16 +24,22 @@ Dr. Ronald’s is a member of the National Academy of Sciences and has been reco
 <hr style="clear: both;" />
 # International Speakers
 <hr style="clear: both;" />
-## Dr. Nir Sade <br/>
-#### *School of Plant Sciences and Food Security, Tel Aviv University, Tel Aviv, Israel* <br/>
-#### <a href="https://en-lifesci.tau.ac.il/profile/nirsa" target="_blank"> *Website - Dr. Nir Sade* </a>
-<img src="/img/2021NirSade.png" alt="Dr. Nir Sade Photo"  width="180px" style="float: left" />
-<br/><br/><br/>
-
 ## Dr. Chris-Carolin Schön <br/>
 #### *TUM School of Life Sciences, Technical University of Munich, Freising, Germany* <br/>
 #### <a href="https://www.professoren.tum.de/en/schoen-chris-carolin" target="_blank"> *Website - Dr. Chris-Carolin Schön* </a>
-<img src="/img/2021Schön.png" alt="Dr. Chris-Carolin Schön Photo"  width="180px" style="float: right" />
+<img src="/img/2021Schön.png" alt="Dr. Chris-Carolin Schön Photo"  width="180px" style="float: left" />
+The research of Prof. Schön is focused on the optimization of agricultural processes through the integration of molecular biology technologies. This primarily involves the use of molecular markers in breeding crop plants. Her work is also concerned with the characterization of native biodiversity and the identification of its functional characteristics as well as the development of optimized breeding strategies for complex properties.
+
+Prof. Schön (b. 1963) studied agricultural sciences at Hohenheim University and Oregon State University, USA. After receiving her doctorate, she worked at KWS SAAT AG, after which she served as Director of the State Plant Breeding Institute at Hohenheim University, where she completed her postdoctoral studies in the field of plant breeding in 2006. She has held a full professorship at TUM since 2007. Prof. Schön is a member of the National Academy of Sciences Leopoldina, member of the senate of the German Research Foundation (DFG) and member of numerous national and international scientific advisory councils. She played a leadership role in establishing Synbreed, an interdisciplinary network for genome-based breeding research on plants and animals.
+<br/><br/><br/>
+
+## Dr. Nir Sade <br/>
+#### *School of Plant Sciences and Food Security, Tel Aviv University, Tel Aviv, Israel* <br/>
+#### <a href="https://en-lifesci.tau.ac.il/profile/nirsa" target="_blank"> *Website - Dr. Nir Sade* </a>
+<img src="/img/2021NirSade.png" alt="Dr. Nir Sade Photo"  width="180px" style="float: right" />
+Nir Sade is a senior lecturer in the School of plant science and food security since 2019.  He was trained as an undergrad in plant science at the faculty of Agriculture, the Hebrew university of Jerusalem. He received a masters and a PhD in plant science from the faculty of agriculture, the Hebrew university of Jerusalem.
+
+His research is focused on understanding the mechanism of crops adaptation to abiotic stress. More specifically, he studies the effect of abiotic stress on important agricultural traits such as water movement and carbon/nitrogen allocation.
 <br/><br/><br/><br/><br/><br/>
 
 <hr style="clear: both;" />
