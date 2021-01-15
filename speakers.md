@@ -33,7 +33,7 @@ Dr. Ronald’s is a member of the National Academy of Sciences and has been reco
 ## Dr. Chris-Carolin Schön <br/>
 #### *TUM School of Life Sciences, Technical University of Munich, Freising, Germany* <br/>
 #### <a href="https://www.professoren.tum.de/en/schoen-chris-carolin" target="_blank"> *Website - Dr. Chris-Carolin Schön* </a>
-<img src="/img/2021Schön.png" alt="Dr. Chris-Carolin Schön Photo"  width="180px" style="float: left" />
+<img src="/img/2021Schön.png" alt="Dr. Chris-Carolin Schön Photo"  width="180px" style="float: right" />
 <br/><br/><br/><br/><br/><br/>
 
 <hr style="clear: both;" />
@@ -51,7 +51,7 @@ Sarah received BS degrees in Chemistry and Biology from High Point University an
 ## Dr. Bing Yang <br/>
 #### *Division of Plant Sciences, University of Missouri, Columbia, MO, United States* <br/>
 #### <a href="https://cafnr.missouri.edu/person/bing-yang/" target="_blank"> *Website - Dr. Bing Yang* </a>
-<img src="/img/2021BingYang.png" alt="Dr. Bing Yang Photo"  width="180px" style="float: left" />
+<img src="/img/2021BingYang.png" alt="Dr. Bing Yang Photo"  width="180px" style="float: right" />
 Dr. Bing Yang is a professor in the Division of Plant Sciences at the University of Missouri, and a member and Principal Investigator at Donald Danforth Plant Science Center. He received PhD degree in plant pathology at Kansas State University. 
 
 The research of the Yang lab mainly focuses on 1) gaining a molecular understanding of host disease susceptibility and resistance to pathogenic microbes by using bacterial blight of rice as a disease model, and 2) developing and applying genome editing technologies for gene/trait discovery and for engineering improved traits such as disease resistance in crop plants. His group has developed a suite of toolsets for high-efficiency genome editing in crop plants such as rice, maize, wheat, sorghum and soybean.
