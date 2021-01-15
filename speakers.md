@@ -27,7 +27,7 @@ Dr. Ronald’s is a member of the National Academy of Sciences and has been reco
 ## Dr. Chris-Carolin Schön <br/>
 #### *TUM School of Life Sciences, Technical University of Munich, Freising, Germany* <br/>
 #### <a href="https://www.professoren.tum.de/en/schoen-chris-carolin" target="_blank"> *Website - Dr. Chris-Carolin Schön* </a>
-<img src="/img/2021Schön.png" alt="Dr. Chris-Carolin Schön Photo"  width="180px" style="float: left" />
+<img src="/img/2021Schon.png" alt="Dr. Chris-Carolin Schön Photo"  width="180px" style="float: left" />
 The research of Prof. Schön is focused on the optimization of agricultural processes through the integration of molecular biology technologies. This primarily involves the use of molecular markers in breeding crop plants. Her work is also concerned with the characterization of native biodiversity and the identification of its functional characteristics as well as the development of optimized breeding strategies for complex properties.
 
 Prof. Schön (b. 1963) studied agricultural sciences at Hohenheim University and Oregon State University, USA. After receiving her doctorate, she worked at KWS SAAT AG, after which she served as Director of the State Plant Breeding Institute at Hohenheim University, where she completed her postdoctoral studies in the field of plant breeding in 2006. She has held a full professorship at TUM since 2007. Prof. Schön is a member of the National Academy of Sciences Leopoldina, member of the senate of the German Research Foundation (DFG) and member of numerous national and international scientific advisory councils. She played a leadership role in establishing Synbreed, an interdisciplinary network for genome-based breeding research on plants and animals.
