@@ -15,7 +15,10 @@ Philip Poole did his PhD on nitrogen fixation by Rhizobium born in Perth, Wester
 ## Dr. Pamela Ronald <br/>
 #### *Department of Plant Pathology, University of California, Davis, Davis, CA, United States* <br/>
 #### <a href="https://cropgeneticsinnovation.ucdavis.edu/about-ronald" target="_blank"> *Website - Dr. Pamela Ronald* </a>
-<img src="/img/2021PamelaRonald.png" alt="Dr. Pamela Ronald Photo"  width="180px" style="float: left" /> 
+<img src="/img/2021PamelaRonald.png" alt="Dr. Pamela Ronald Photo"  width="180px" style="float: right" /> 
+Dr. Pamela Ronald is a distinguished professor at the department of Plant Pathology, University of California Davis, recognized for her research in infectious disease biology and environmental stress tolerance. Dr. Ronald graduated from Reed College with a B.A. (Biology), from Stanford University with a M.S.(Biology), from Uppsala University with a M.S. (Physiological Botany) and from UC Berkeley with a Ph.D. in Molecular and Physiological Plant Biology. She worked as a postdoctoral fellow in plant breeding at Cornell University and joined the faculty of UC Davis in 1992. Dr Ronald’s leading role in the isolation of the rice Submergence Tolerance 1 gene has facilitated the development of high yielding Sub1 rice varieties grown by more than six million subsistence farmers in South Asia. 
+
+Dr. Ronald’s is a member of the National Academy of Sciences and has been recognized with several prestigious including such as USDA National Research Institute Discovery Award, The Louis Malassis International Scientific Prize for Agriculture and Food, Tech Award for innovative use of technology, American Society of Plant Biologists Leadership in Science Public Service Award, and prestigious honorary doctorate from the Swedish Agricultural University. She was also named one of the world’s most influential scientific minds by Thomson Reuters and one of the world’s 100 most influential people in biotechnology by Scientific American. 
 <br/><br/><br/><br/><br/><br/>
 
 <hr style="clear: both;" />
