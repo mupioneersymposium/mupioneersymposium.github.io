@@ -28,7 +28,7 @@ Dr. Ronald’s is a member of the National Academy of Sciences and has been reco
 #### *School of Plant Sciences and Food Security, Tel Aviv University, Tel Aviv, Israel* <br/>
 #### <a href="https://en-lifesci.tau.ac.il/profile/nirsa" target="_blank"> *Website - Dr. Nir Sade* </a>
 <img src="/img/2021NirSade.png" alt="Dr. Nir Sade Photo"  width="180px" style="float: left" />
-<br/>
+<br/><br/><br/>
 
 ## Dr. Chris-Carolin Schön <br/>
 #### *TUM School of Life Sciences, Technical University of Munich, Freising, Germany* <br/>
@@ -46,7 +46,7 @@ Dr. Ronald’s is a member of the National Academy of Sciences and has been reco
 Currently a Senior Scientist at the Boston-based microbiome company, Indigo Ag, Sarah leads a team of researchers responsible for isolation and characterization of beneficial plant-associated microbes that increase yield and decrease the need for chemical inputs in agricultural crops. The mission at Indigo—harnessing nature to help farmers sustainably feed the planet—combines her passion for and expertise in microbe-microbe and microbe-plant interactions and has direct application to an increasingly important global issue. 
 
 Sarah received BS degrees in Chemistry and Biology from High Point University and a PhD in Microbiology from the University of Georgia, where she studied the potential of soil bacteria to catabolize organic pollutants. After receiving her degree, Sarah completed post-doctoral research in plant-microbe interactions at Tufts University School of Medicine and worked as a Research Scientist at Harvard Medical School, studying the effect of the gut microbiome on metabolism and health. Before joining Indigo, Sarah was an Assistant Professor of Biology at the University of North Carolina Asheville, where her research lab focused on isolation of soil bacteria that produce antibiotics or other interesting natural products.
-<br/>
+<br/><br/><br/>
 
 ## Dr. Bing Yang <br/>
 #### *Division of Plant Sciences, University of Missouri, Columbia, MO, United States* <br/>
