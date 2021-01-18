@@ -20,9 +20,9 @@ Please follow the link for the abstract submission. <a href="https://docs.google
 ## What are the differences between Abstract Presentation and Lightening Talk?
 <hr style="clear: both;" />
 ## *Abstract Presentation:*
-The symposium committee will select four abstracts for the Abstract Speaker Presentation based on the work importance, the new and exciting research findings, and accessibility to a broad audience. Authors of abstracts selected for oral presentations will be informed by email mupltsciplantrese1@umsystem.edu by February 10th, 2021.
+The symposium committee will select four abstracts for the Abstract Presentation based on the work importance, the new and exciting research findings, and accessibility to a broad audience. Authors of the abstracts selected for the oral presentations will be informed by email mupltsciplantrese1@umsystem.edu by February 10th, 2021.
 <br/><br/>
-The allocated time for the presentation is 15 minutes followed by 5 minutes for questions. The applicants not selected for the Abstract Speaker Presentation will be considered for Lightning Talks upon request.
+The allocated time for the presentation is 15 minutes followed by 5 minutes for questions. The applicants not selected for the Abstract Presentation will be considered for Lightning Talks upon request.
 <br/><br/>
 
 ## *Lightning Talk:*
