@@ -9,7 +9,9 @@ layout: regular
 #### *Department of Plant Sciences, University of Oxford, Oxford, United Kingdom* <br/>
 #### <a href="https://www.plants.ox.ac.uk/people/phil-poole#tab-2059586" target="_blank"> *Website - Dr. Philip Poole* </a>
 <img src="/img/2021PhilipPoole.png" alt="Dr. Philip Poole Photo"  width="180px" style="float: left" /> 
-Philip Poole did his PhD on nitrogen fixation by Rhizobium born in Perth, Western Australia. From there he did a post-doctoral fellowship in the Department of Biochemistry, University of Oxford with Judy Armitage on bacterial chemotaxis. He subsequently established his own research group at the University of Reading where he was appointed lecturer in microbial physiology and progressed to a personal chair. He moved to the John Innes Centre in Norwich in 2007 and, in 2013, took up a personal chair as Professor of Plant Microbiology at the University of Oxford. His research interests include the biochemistry of nitrogen fixation by Rhizobium, as well as the microbiology of the rhizosphere and role of microbial communities in plant growth.
+Dr. Philip Poole obtained his Ph.D. at Murdoch University, Western Australia on Rhizobium nitrogen-fixation. He did his post-doctoral research in the Department of Biochemistry, University of Oxford with Judy Armitage on bacterial chemotaxis. In 2003, He subsequently established his own research group at the University of Reading where he was appointed lecturer in microbial physiology and progressed to a personal chair. He moved to the John Innes Centre in Norwich in 2007 and later in 2013, he took up a personal chair as Professor of Plant Microbiology at the University of Oxford.
+
+Dr. Poole's research focuses on bacterial genetics and molecular biology of plant-associated bacteria, exploring the physiology of bacterial growth, survival in the rhizosphere, and how bacteria establish symbiotic interactions with plants, including root attachment and colonization. A further focus of his work is the physiology and biochemistry of nitrogen fixation in legume nodules. Recently we have developed methods to revolutionize the whole research area of how plants control the microbial root microbiome.
 <br/><br/><br/>
 
 ## Dr. Pamela Ronald <br/>
@@ -28,18 +30,20 @@ Dr. Ronald’s is a member of the National Academy of Sciences and has been reco
 #### *TUM School of Life Sciences, Technical University of Munich, Freising, Germany* <br/>
 #### <a href="https://www.professoren.tum.de/en/schoen-chris-carolin" target="_blank"> *Website - Dr. Chris-Carolin Schön* </a>
 <img src="/img/2021Schon.png" alt="Dr. Chris-Carolin Schön Photo"  width="180px" style="float: left" />
-The research of Prof. Schön is focused on the optimization of agricultural processes through the integration of molecular biology technologies. This primarily involves the use of molecular markers in breeding crop plants. Her work is also concerned with the characterization of native biodiversity and the identification of its functional characteristics as well as the development of optimized breeding strategies for complex properties.
+Prof. Schön's research focuses on the optimization of agricultural processes through the integration of molecular biology technologies. It primarily involves the use of molecular markers in breeding crop plants. Her work is also concerned with the characterization of native biodiversity and the identification of its functional characteristics as well as the development of optimized breeding strategies for different complex properties.
 
-Prof. Schön (b. 1963) studied agricultural sciences at Hohenheim University and Oregon State University, USA. After receiving her doctorate, she worked at KWS SAAT AG, after which she served as Director of the State Plant Breeding Institute at Hohenheim University, where she completed her postdoctoral studies in the field of plant breeding in 2006. She has held a full professorship at TUM since 2007. Prof. Schön is a member of the National Academy of Sciences Leopoldina, member of the senate of the German Research Foundation (DFG) and member of numerous national and international scientific advisory councils. She played a leadership role in establishing Synbreed, an interdisciplinary network for genome-based breeding research on plants and animals.
+Prof. Schön obtained an M.S. in crop science at the University of Hohenheim and a Ph.D. in plant breeding at the Oregon State University, USA. She worked at KWS SAAT AG, a plant breeding company, after her Ph.D., and later joined as Director of the State Plant Breeding Institute at Hohenheim University. She also completed her post-doctoral studies in the field of plant breeding at the Hohenheim University in 2006. She has been working as a full professorship at the Technical University of Munich (TUM) since 2007. 
+
+Prof. Schön is a member of the National Academy of Sciences Leopoldina and a senate of the German Research Foundation (DFG). She is also a member of numerous national and international scientific advisory councils. She had played an important leadership role in establishing Synbreed, an interdisciplinary network for genome-based breeding research on plants and animals. 
 <br/><br/><br/>
 
 ## Dr. Nir Sade <br/>
 #### *School of Plant Sciences and Food Security, Tel Aviv University, Tel Aviv, Israel* <br/>
 #### <a href="https://en-lifesci.tau.ac.il/profile/nirsa" target="_blank"> *Website - Dr. Nir Sade* </a>
 <img src="/img/2021NirSade.png" alt="Dr. Nir Sade Photo"  width="180px" style="float: right" />
-Nir Sade is a senior lecturer in the School of plant science and food security since 2019.  He was trained as an undergrad in plant science at the faculty of Agriculture, the Hebrew university of Jerusalem. He received a masters and a PhD in plant science from the faculty of agriculture, the Hebrew university of Jerusalem.
+Dr. Nir Sade is an assistant professor in the School of Plant Science and Food Security at Tel Aviv University, Tel Aviv, Israel. He was trained as an undergrad in plant sciences at the Hebrew University of Jerusalem. He received a master's and a Ph.D. in plant genetics from The Robert H. Smith Faculty of Agriculture, Food and Environment, the Hebrew University of Jerusalem. He also worked as a post-doctoral fellow in the Department of Plant Sciences at the University of California, Davis, USA. 
 
-His research is focused on understanding the mechanism of crops adaptation to abiotic stress. More specifically, he studies the effect of abiotic stress on important agricultural traits such as water movement and carbon/nitrogen allocation.
+His research is focused on understanding the mechanism of crop adaptation to abiotic stress. More specifically, he studies the effect of abiotic stress on important agricultural traits such as water movement and carbon/ nitrogen allocation. 
 <br/><br/><br/><br/><br/><br/>
 
 <hr style="clear: both;" />
@@ -51,16 +55,16 @@ His research is focused on understanding the mechanism of crops adaptation to ab
 <img src="/img/2021SarahSeaton.png" alt="Dr. Sarah C. Seaton Photo"  width="180px" style="float: left" />
 Currently a Senior Scientist at the Boston-based microbiome company, Indigo Ag, Sarah leads a team of researchers responsible for isolation and characterization of beneficial plant-associated microbes that increase yield and decrease the need for chemical inputs in agricultural crops. The mission at Indigo—harnessing nature to help farmers sustainably feed the planet—combines her passion for and expertise in microbe-microbe and microbe-plant interactions and has direct application to an increasingly important global issue. 
 
-Sarah received BS degrees in Chemistry and Biology from High Point University and a PhD in Microbiology from the University of Georgia, where she studied the potential of soil bacteria to catabolize organic pollutants. After receiving her degree, Sarah completed post-doctoral research in plant-microbe interactions at Tufts University School of Medicine and worked as a Research Scientist at Harvard Medical School, studying the effect of the gut microbiome on metabolism and health. Before joining Indigo, Sarah was an Assistant Professor of Biology at the University of North Carolina Asheville, where her research lab focused on isolation of soil bacteria that produce antibiotics or other interesting natural products.
+Dr. Seaton obtained her bachelor's degree in Biology and Chemistry from High Point University and a Ph.D. in Microbiology from the University of Georgia, where she studied the potential of soil bacteria to catabolize organic pollutants. She completed her post-doctoral research in plant-microbe interactions at Tufts University School of Medicine and joined as a Research Scientist at Harvard Medical School, studying the effect of the gut-microbiome on metabolism and health. Before joining Indigo, She also served as an assistant professor of biology at the University of North Carolina, Asheville, where her research lab focused on the isolation of soil bacteria that produce antibiotics and other interesting natural products.
 <br/><br/><br/>
 
 ## Dr. Bing Yang <br/>
 #### *Division of Plant Sciences, University of Missouri, Columbia, MO, United States* <br/>
 #### <a href="https://cafnr.missouri.edu/person/bing-yang/" target="_blank"> *Website - Dr. Bing Yang* </a>
 <img src="/img/2021BingYang.png" alt="Dr. Bing Yang Photo"  width="180px" style="float: right" />
-Dr. Bing Yang is a professor in the Division of Plant Sciences at the University of Missouri, and a member and Principal Investigator at Donald Danforth Plant Science Center. He received PhD degree in plant pathology at Kansas State University. 
+Dr. Bing Yang is a professor in the Division of Plant Sciences at the University of Missouri and a member and Principal Investigator at Donald Danforth Plant Science Center. He received a Ph.D. degree in plant pathology at Kansas State University. 
 
-The research of the Yang lab mainly focuses on 1) gaining a molecular understanding of host disease susceptibility and resistance to pathogenic microbes by using bacterial blight of rice as a disease model, and 2) developing and applying genome editing technologies for gene/trait discovery and for engineering improved traits such as disease resistance in crop plants. His group has developed a suite of toolsets for high-efficiency genome editing in crop plants such as rice, maize, wheat, sorghum and soybean.
+Dr. Yang's research lab mainly focuses on 1) gaining a molecular understanding of host disease susceptibility and resistance to pathogenic microbes by using bacterial blight of rice as a disease model, and 2) developing and applying genome editing technologies for gene/trait discovery and for engineering improved traits such as disease resistance in crop plants. His group has developed a suite of toolsets for high-efficiency genome editing in crop plants such as rice, maize, wheat, sorghum and soybean.
 <br/><br/><br/><br/><br/><br/>
 
 <hr style="clear: both;" />
