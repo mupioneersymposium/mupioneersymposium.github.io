@@ -28,8 +28,6 @@ The allocated time for the presentation is 15 minutes followed by 5 minutes for 
 ## *Lightning Talk:*
 All lightning talk presenters are requested to record a 4-5 min long video presentation about their research. The videos will be available on the Symposium website and will be evaluated by a selected judge committee. All Lightning Talks will be accepted.
 <br/><br/>
-Video presentation should be send to mupltsciplantrese1@umsystem.edu due by 
-<p style="color:red;">28 February, 2021</p>
-For your own video success, do not wait until the last minute to send it.
+Video presentation should be send to mupltsciplantrese1@umsystem.edu due by <p style="color:red;">28 February, 2021</p> For your own video success, do not wait until the last minute to send it.
 <br/><br/>
 The top three presentations will receive a prize based on the video presentation and Panel Discussion participation.
