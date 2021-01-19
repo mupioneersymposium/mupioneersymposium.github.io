@@ -47,7 +47,7 @@ His research is focused on understanding the mechanism of crop adaptation to abi
 <br/><br/><br/><br/><br/><br/>
 
 <hr style="clear: both;" />
-# Invited speakers
+# Invited Speakers
 <hr style="clear: both;" />
 ## Dr. Sarah C. Seaton <br/>
 #### *Indigo, Boston, MA, United States* <br/>
@@ -65,6 +65,12 @@ Dr. Seaton obtained her bachelor's degree in Biology and Chemistry from High Poi
 Dr. Bing Yang is a professor in the Division of Plant Sciences at the University of Missouri and a member and Principal Investigator at Donald Danforth Plant Science Center. He received a Ph.D. degree in plant pathology at Kansas State University. 
 
 Dr. Yang's research lab mainly focuses on 1) gaining a molecular understanding of host disease susceptibility and resistance to pathogenic microbes by using bacterial blight of rice as a disease model, and 2) developing and applying genome editing technologies for gene/trait discovery and for engineering improved traits such as disease resistance in crop plants. His group has developed a suite of toolsets for high-efficiency genome editing in crop plants such as rice, maize, wheat, sorghum and soybean.
+<br/><br/><br/><br/><br/><br/>
+
+<hr style="clear: both;" />
+# Corteva Speaker
+<hr style="clear: both;" />
+## To be updated <br/>
 <br/><br/><br/><br/><br/><br/>
 
 <hr style="clear: both;" />
