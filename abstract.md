@@ -9,7 +9,7 @@ layout: regular
 <hr style="clear: both;" />
 **Abstract submission for both 'Abstract Presentation' and 'Lightning Talk' is open for the 5<sup>th</sup> annual MU Plant Research Symposium** 
 <br/><br/>
-**Deadline: 31 January, 2021 by 11:59PM (CT)**
+**Deadline: 10 February, 2021 by 11:59PM (CT)**
 <br/><br/>
 **Abstracts should be in line with the theme of the symposium: The next green revolution: challenges and strategies towards a sustainable agriculture. Therefore, these must address how one's research can at some point improve agriculture**
 <br/><br/>
