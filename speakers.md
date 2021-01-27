@@ -73,7 +73,7 @@ Dr. Yang's research lab mainly focuses on 1) gaining a molecular understanding o
 ## Dr. Sara Lira <br/>
 #### *Corteva Agriscience, Dallas Center, IA, United States* <br/>
 #### <a href="https://www.linkedin.com/in/sara-lira-617a681a6/" target="_blank"> *Website - Dr. Sara Lira* </a>
-<img src="/img/2021SaraLisa.png" alt="Dr. Sara Lira Photo"  width="180px" style="float: left" />
+<img src="/img/2021SaraLira.png" alt="Dr. Sara Lira Photo"  width="180px" style="float: left" />
 Dr. Lira is a research scientist at Corteva Agriscience in Dallas Center, IA.  She received a B.S. in ecology, an M.S. in Genetics, and a Ph.D in Plant Breeding from Iowa State University.  Dr. Lira spent ten years as a corn breeder at Corteva but has recently turned her focus to breeding for emerging climate-positive cropping systems.  Her work has lately emphasized the development of peas for use as a short season protein crop and a nitrogen source in non-traditional pea-growing areas.
 <br/><br/><br/><br/><br/><br/>
 
