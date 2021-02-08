@@ -19,7 +19,7 @@ Please follow the link for the abstract submission. <a href="https://docs.google
 <hr style="clear: both;" />
 ## What are the differences between Abstract Presentation and Lightning Talk?
 <hr style="clear: both;" />
-#### <a href="https://youtu.be/DTVKvruJzdM" target="_blank"> *Click here for Video Description* </a>
+#### <a href="https://youtu.be/DTVKvruJzdM" target="_blank"> *Please click here for Video Description* </a>
 ## *Abstract Presentation:*
 The symposium committee will select four abstracts for the Abstract Presentation based on the work importance, the new and exciting research findings, and accessibility to a broad audience. Authors of the abstracts selected for the oral presentations will be informed by email mupltsciplantrese1@umsystem.edu by 12 February, 2021.
 <br/><br/>
