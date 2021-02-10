@@ -9,7 +9,7 @@ layout: regular
 <hr style="clear: both;" />
 **Abstract submission for both 'Abstract Presentation' and 'Lightning Talk' is open for the 5<sup>th</sup> annual MU Plant Research Symposium** 
 <br/><br/>
-**Deadline: 10 February, 2021 by 11:59PM (CT)**
+**Deadline *(extended)*: 16 February, 2021 by 11:59PM (CT)**
 <br/><br/>
 **Abstracts should be in line with the theme of the symposium: The next green revolution: challenges and strategies towards a sustainable agriculture. Therefore, these must address how one's research can at some point improve agriculture**
 <br/><br/>
@@ -21,7 +21,7 @@ Please follow the link for the abstract submission. <a href="https://docs.google
 <hr style="clear: both;" />
 #### <a href="https://youtu.be/DTVKvruJzdM" target="_blank"> *Please click here for Video Description* </a>
 ## *Abstract Presentation:*
-The symposium committee will select four abstracts for the Abstract Presentation based on the work importance, the new and exciting research findings, and accessibility to a broad audience. Authors of the abstracts selected for the oral presentations will be informed by email mupltsciplantrese1@umsystem.edu by 12 February, 2021.
+The symposium committee will select four abstracts for the Abstract Presentation based on the work importance, the new and exciting research findings, and accessibility to a broad audience. Authors of the abstracts selected for the oral presentations will be informed by email mupltsciplantrese1@umsystem.edu by 17 February, 2021.
 <br/><br/>
 The allocated time for the presentation is 15 minutes followed by 5 minutes for questions. The applicants not selected for the Abstract Presentation will be considered for Lightning Talks upon request.
 <br/><br/>
