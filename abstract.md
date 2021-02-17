@@ -7,6 +7,7 @@ layout: regular
 <hr style="clear: both;" />
 # Abstract
 <hr style="clear: both;" />
+<br/><br/><br/>
 **Abstract submission for both 'Abstract Presentation' and 'Lightning Talk' is now closed for the 5<sup>th</sup> annual MU Plant Research Symposium** 
 <br/><br/><br/><br/><br/>
 
