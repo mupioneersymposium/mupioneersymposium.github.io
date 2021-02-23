@@ -80,4 +80,26 @@ Dr. Lira is a research scientist at Corteva Agriscience in Dallas Center, IA.  S
 <hr style="clear: both;" />
 # Abstract Speakers
 <hr style="clear: both;" />
-## To be updated <br/>
+<img src="/img/2021NicholasBaert.png" alt="Nicholas Baert Photo" width="110px" style="float: left" />
+**Nicholas W. Baert, Ph.D. Student** <br/>
+***Division of Plant Sciences, University of Missouri-Columbia*** <br/>
+Title: Genotypic variation in maize nodal root growth response to water deficit
+<br/><br/><br/>
+
+<img src="/img/2021ReynaPersa.jpg" alt="Reyna Persa Photo" width="110px" style="float: left" /> 
+**Reyna Persa, Research Assistant** <br/>
+***department of agronomy and horticulture, University of Nebraska-Lincoln*** <br/>
+Title: Integrating Day Length Information and Genomic Prediction Tools for Predicting Days to Maturity in Soybeans under complex scenarios
+<br/><br/><br/>
+
+<img src="/img/2021StacyWilder.jpg" alt="Stacy Lynn Wilder Photo" width="110px" style="float: left" />
+**Stacy Lynn Wilder, Laboratory Supervisor** <br/>
+***University of Missouri Research Reactor Center*** <br/>
+Title: Meeting Agricultural Sustainability through Plant Growth Promoting Bacteria: An Examination of the Mechanisms for Improved Host Uptake of Zinc Nutrient in Maize using Functional Mutants of Azospirillum brasilense
+<br/><br/><br/>
+
+<img src="/img/2021VishnutejEllur.jpg" alt="Vishnutej Ellur Photo" width="110px" style="float: left" />
+**Vishnutej Ellur, Graduate Student** <br/>
+***Molecular Plant Sciences, Washington State University*** <br/>
+Title: Investigating the roles of defense proteins in plants for sustainable disease resistance
+<br/>
