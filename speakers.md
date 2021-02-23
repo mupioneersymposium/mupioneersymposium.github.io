@@ -93,7 +93,7 @@ Title: Integrating Day Length Information and Genomic Prediction Tools for Predi
 <br/><br/><br/>
 
 <img src="/img/2021StacyWilder.jpg" alt="Stacy Lynn Wilder Photo" width="110px" style="float: left" />
-## Stacy Lynn Wilder <br/>
+## Stacy L. Wilder <br/>
 #### *Laboratory Supervisor, University of Missouri Research Reactor Center* <br/>
 Title: Meeting Agricultural Sustainability through Plant Growth Promoting Bacteria: An Examination of the Mechanisms for Improved Host Uptake of Zinc Nutrient in Maize using Functional Mutants of Azospirillum brasilense
 <br/><br/><br/>
