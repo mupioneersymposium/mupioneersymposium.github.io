@@ -82,24 +82,24 @@ Dr. Lira is a research scientist at Corteva Agriscience in Dallas Center, IA.  S
 <hr style="clear: both;" />
 <img src="/img/2021NicholasBaert.png" alt="Nicholas Baert Photo" width="110px" style="float: left" />
 ## Nicholas W. Baert <br/> 
-#### *Ph.D. Student, Division of Plant Sciences, University of Missouri-Columbia* <br/>
+#### *Ph.D. Student <br/> Division of Plant Sciences, University of Missouri-Columbia* <br/>
 Talk Title: Genotypic Variation in Maize Nodal Root Growth Response to Water Deficit
 <br/><br/><br/>
 
 <img src="/img/2021ReynaPersa.jpg" alt="Reyna Persa Photo" width="110px" style="float: left" /> 
 ## Reyna Persa <br/>
-#### *Research Assistant, department of agronomy and horticulture, University of Nebraska-Lincoln* <br/>
+#### *Research Assistant <br/> Department of Agronomy and Horticulture, University of Nebraska-Lincoln* <br/>
 Talk Title: Integrating Day Length Information and Genomic Prediction Tools for Predicting Days to Maturity in Soybeans under complex scenarios
 <br/><br/><br/>
 
 <img src="/img/2021StacyWilder.jpg" alt="Stacy Lynn Wilder Photo" width="110px" style="float: left" />
 ## Stacy L. Wilder <br/>
-#### *Laboratory Supervisor, University of Missouri Research Reactor Center* <br/>
+#### *Laboratory Supervisor <br/> University of Missouri Research Reactor Center* <br/>
 Talk Title: Meeting Agricultural Sustainability through Plant Growth Promoting Bacteria: An Examination of the Mechanisms for Improved Host Uptake of Zinc Nutrient in Maize using Functional Mutants of Azospirillum brasilense
 <br/><br/><br/>
 
 <img src="/img/2021VishnutejEllur.png" alt="Vishnutej Ellur Photo" width="110px" style="float: left" />
 ## Vishnutej Ellur <br/>
-#### *Ph.D. Student, Molecular Plant Sciences, Washington State University* <br/>
+#### *Ph.D. Student <br/> Molecular Plant Sciences, Washington State University* <br/>
 Talk Title: Investigating the Roles of Defense Proteins in Plants for Sustainable Disease Resistance
 <br/>
