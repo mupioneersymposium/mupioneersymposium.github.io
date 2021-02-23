@@ -98,7 +98,7 @@ Title: Integrating Day Length Information and Genomic Prediction Tools for Predi
 Title: Meeting Agricultural Sustainability through Plant Growth Promoting Bacteria: An Examination of the Mechanisms for Improved Host Uptake of Zinc Nutrient in Maize using Functional Mutants of Azospirillum brasilense
 <br/><br/><br/>
 
-<img src="/img/2021VishnutejEllur.jpg" alt="Vishnutej Ellur Photo" width="110px" style="float: left" />
+<img src="/img/2021VishnutejEllur.png" alt="Vishnutej Ellur Photo" width="110px" style="float: left" />
 **Vishnutej Ellur, Graduate Student** <br/>
 ***Molecular Plant Sciences, Washington State University*** <br/>
 Title: Investigating the roles of defense proteins in plants for sustainable disease resistance
