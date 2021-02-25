@@ -50,7 +50,7 @@ His research is focused on understanding the mechanism of crop adaptation to abi
 # Invited Speakers
 <hr style="clear: both;" />
 ## Dr. Sarah C. Seaton <br/>
-#### *Indigo, Boston, MA, United States* <br/>
+#### *Indigo Agriculture, Boston, MA, United States* <br/>
 #### <a href="https://www.linkedin.com/in/sarah-craven-seaton-21895633/" target="_blank"> *Website - Dr. Sarah C. Seaton* </a>
 <img src="/img/2021SarahSeaton.png" alt="Dr. Sarah C. Seaton Photo"  width="180px" style="float: left" />
 Currently a Senior Scientist at the Boston-based microbiome company, Indigo Ag, Dr. Seaton leads a team of researchers responsible for isolation and characterization of beneficial plant-associated microbes that increase yield and decrease the need for chemical inputs in agricultural crops. The mission at Indigo—harnessing nature to help farmers sustainably feed the planet—combines her passion for and expertise in microbe-microbe and microbe-plant interactions and has direct application to an increasingly important global issue. 
