@@ -86,7 +86,7 @@ Dr. Lira is a research scientist at Corteva Agriscience in Dallas Center, IA.  S
 Talk Title: Genotypic Variation in Maize Nodal Root Growth Response to Water Deficit
 <br/><br/><br/>
 
-<img src="/img/2021ReynaPersa.png" alt="Reyna Persa Photo" width="110px" style="float: right" /> 
+<img src="/img/2021ReynaPersa.png" alt="Reyna Persa Photo" width="110px" style="float: left" /> 
 ## Reyna Persa <br/>
 #### *Research Assistant <br/> Department of Agronomy and Horticulture, University of Nebraska-Lincoln* <br/>
 Talk Title: Integrating Day Length Information and Genomic Prediction Tools for Predicting Days to Maturity in Soybeans under complex scenarios
@@ -98,7 +98,7 @@ Talk Title: Integrating Day Length Information and Genomic Prediction Tools for 
 Talk Title: Meeting Agricultural Sustainability through Plant Growth Promoting Bacteria: An Examination of the Mechanisms for Improved Host Uptake of Zinc Nutrient in Maize using Functional Mutants of Azospirillum brasilense
 <br/><br/><br/>
 
-<img src="/img/2021VishnutejEllur.png" alt="Vishnutej Ellur Photo" width="110px" style="float: right" />
+<img src="/img/2021VishnutejEllur.png" alt="Vishnutej Ellur Photo" width="110px" style="float: left" />
 ## Vishnutej Ellur <br/>
 #### *Ph.D. Student <br/> Molecular Plant Sciences, Washington State University* <br/>
 Talk Title: Investigating the Roles of Defense Proteins in Plants for Sustainable Disease Resistance
