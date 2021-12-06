@@ -6,7 +6,7 @@ layout: regular
 # Abstract
 <hr style="clear: both;" />
 <br/>
-**Abstract submission for both 'Abstract Presentation' and 'Lightning Talk' is open for 2022 Annual MU Plant Research Symposium** <br/>
+**Abstract submission for both 'Abstract Presentation' and 'Lightning Talk' is open for the 6<sup>th</sup> Annual MU Plant Research Symposium** <br/>
 **Deadline: February 4**
 **All speakers for Abstract Presentation and Lighting Talk should join this symposium in-person**
 
