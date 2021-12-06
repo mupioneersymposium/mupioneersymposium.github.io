@@ -10,7 +10,7 @@ layout: regular
 **Deadline: February 4**
 <hr style="clear: both;" />
 Please follow the link for the abstract submission. <a
-href="https://docs.google.com/forms/d/e/1FAIpQLSfF3D-yUA9gZtGNLRikC2PCe6v8W_Ghrf9Rh9nPUz2zbRIIlQ/viewform?vc=0&c=0&w=1&flr=0" target="_blank"> Please click here
+href="https://docs.google.com/forms/d/1j5pdv9IfjmuOmAftuR7fHvTMURaFxtlUvaNsNhovRK0/edit" target="_blank"> Please click here
                                                       
 <br/><br/>
 
