@@ -1,16 +1,19 @@
 ---
 layout: regular
 ---
-
-
 <img src="/posterview.jpg" style="max-width:95%"/>
 <hr style="clear: both;" />
 # Abstract
 <hr style="clear: both;" />
-<br/><br/><br/>
-**Abstract submission for both 'Abstract Presentation' and 'Lightning Talk' is now closed for the 6<sup>th</sup> annual MU Plant Research Symposium** 
-<br/><br/><br/><br/><br/>
-
+<br/>
+**Abstract submission for both 'Abstract Presentation' and 'Lightning Talk' is open for annual MU Plant Research Symposium** <br/>
+**Deadline: February 4**
+<hr style="clear: both;" />
+Please follow the link for the abstract submission. <a
+href="https://docs.google.com/forms/d/e/1FAIpQLSezsZm-nLOu5xlV4MIB-f9yN2wZx3VV-6B463WXHI-C5m8zHA/viewform?usp=sf_link" target="_blank"> Please click here
+<hr style="clear: both;" />
+                                                      
+<br/><br/>
 
 <hr style="clear: both;" />
 ## What are the differences between Abstract Presentation and Lightning Talk?
