@@ -15,12 +15,14 @@ Please follow the link for the abstract submission. <a
 href="https://docs.google.com/forms/d/e/1FAIpQLSfF3D-yUA9gZtGNLRikC2PCe6v8W_Ghrf9Rh9nPUz2zbRIIlQ/viewform?vc=0&c=0&w=1&flr=0" target="_blank"> Please click here
                                                       
 <hr style="clear: both;" />
-## Opportunity for Abstract Presentation
+## (Attention Please!) Do you want to present for 'Abstract Presentation'?
 <hr style="clear: both;" />
 
 ## *Abstract Presentation:*
-The symposium committee will select four abstracts for the Abstract Presentation based on the work importance, the new and exciting research findings, and accessibility to a broad audience. Authors of the abstracts selected for the oral presentations will be informed by email mupltsciplantrese1@umsystem.edu by January 31.
+The 'Abstract Presentation' is a 20 minutes oral presentation (15 min talk + 5 min questions) about your research. Abstract Presentation would be a great opportunity for you to emphasize your research! <br/>
+How can I do Abstract Presentation?  <br/>
+  The symposium committee will select four abstracts among those who want to enter the Abstract Presentation (the last question on the submission form) based on the work importance, the new and exciting research findings, and accessibility to a broad audience. Authors selected for the Abstract Presentation will be informed by email mupltsciplantrese1@umsystem.edu by January 31. The applicants not selected for the Abstract Presentation will be considered for Poster Presentation.
 <br/><br/>
-The allocated time for the presentation is 15 minutes followed by 5 minutes for questions. The applicants not selected for the Abstract Presentation will be considered for Poster Presentation.
+## If you want to enter Abstract Presentation, please submit your abstract by **January 24** 
 <br/><br/>
 
