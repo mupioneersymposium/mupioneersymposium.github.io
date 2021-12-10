@@ -8,7 +8,7 @@ layout: regular
 <br/>
 **Abstract submission for 'Poster Presentation' is open for the 6<sup>th</sup> Annual MU Plant Research Symposium** <br/>
 **Deadline: February 4** <br/>
-**All speakers for Poster Presentation should join this symposium in-person**
+**All speakers should join this symposium in-person**
 
 <hr style="clear: both;" />
 Please follow the link for the abstract submission. <a
