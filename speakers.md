@@ -21,7 +21,7 @@ Dr. Tim Kelliher has a B.A in Biology from Swarthmore College in Pennsylvania. D
 
 ## Dr. Yunde Zhao <br/>
 #### *Professor, Section of Cell and Developmental Biology, University of California San Diego (UCSD)* <br/>
-#### <a href="https://biology.ucsd.edu/research/faculty/y3zhao/" target="_blank"> *Website - Dr. Yunde Zhao* </a>
+#### <a href="https://biology.ucsd.edu/research/faculty/y3zhao" target="_blank"> *Website - Dr. Yunde Zhao* </a>
 <img src="/img/2022_Yunde Zhao.jpg" alt="Dr. Yunde Zhao Photo"  width="180px" style="float: right" /> 
 Dr. Yunde Zhao received his Ph.D. in Biochemistry from the University of Michigan, where he studied nitric oxide signaling mechanisms. Dr. Zhao received his postdoctoral training in the field of plant molecular genetics at the Salk Institute, where he was supported by a postdoctoral fellowship from the Howard Hughes Medical Institute and the Life Sciences Research Foundation. Currently, Dr. Yunde Zhao is a professor in the Section of Cell and Developmental Biology, University of California San Diego (UCSD). He is also the director of Plant Biology of Food & Fuel for the 21st Century, UCSD. Dr. Zhao is the Editor-in-Chief of Plant Physiology. Dr. Zhao’s research is centered on two areas: 1) Development of gene editing technologies; 2) Elucidation of the molecular mechanisms by which auxin regulates plant development. Dr. Zhao invented several technologies including ribozyme-based guide RNA production, RUBY reporter for gene expression and plant transformation, and the Transgene-Killer CRISPR, which enables efficient isolation of edited, transgene free plants. Dr. Zhao played a leading role in solving the complete auxin biosynthetic pathway in plants.
 <br/><br/><br/><br/><br/><br/>
