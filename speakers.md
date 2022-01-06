@@ -17,7 +17,7 @@ Dr. Coe learned maize genetics from Dr. Charles Burnham at the University of Min
 #### <a href="https://cals.ncsu.edu/plant-and-microbial-biology/people/tjkellih/" target="_blank"> *Website - Dr. Tim Kelliher* </a>
 <img src="/img/2022_Tim Kelliher.jpg" alt="Dr. Tim Kelliher Photo"  width="180px" style="float: right" /> 
 Dr. Tim Kelliher has a B.A in Biology from Swarthmore College in Pennsylvania. During college he studied leaf cell fate specification under Professor Scott Poethig and Dr. Stuart Gillmor at the University of Pennsylvania, and then studied germinal cell fate acquisition in Drosophila under Professor Steven DiNardo.  He has a Ph.D. in Biology from Stanford University, where he studied with Professor Virginia Walbot the topic of reproductive cell fate specification in maize. He joined Syngenta in 2013 and cloned the haploid inducer gene in maize MATRILINEAL and used this gene to developed haploid induction in rice and other crops. He then developed a method of elite germplasm editing while producing non-transgenic doubled haploids (HI-Edit). He is a Science Fellow at Syngenta and run the Breeding Technology Group in Research Triangle Park, North Carolina and he is a science leader of two research programs (Genome Editing Application Technologies, and New Innovation).
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/>
 
 ## Dr. Yunde Zhao <br/>
 #### *Professor, Section of Cell and Developmental Biology, University of California San Diego (UCSD)* <br/>
@@ -38,7 +38,7 @@ Dr. Sona Pandey is a Principal Investigator and Member at the Donald Danforth Pl
 
 ## Dr. Diego Jarquin <br/>
 #### *Assistant Professor, Integration & Application of Artificial Intelligence and Omics in Plant Breeding, University of Florida* <br/>
-#### *Website - Dr. Diego Jarquin (Not updated)* </a>
+#### <a href="https://www.linkedin.com/in/diego-jarquin-b0474153/" target="_blank"> *Website - Dr. Diego Jarquin* </a>
 <img src="/img/2020_Diego Jarquin.jpg" alt="Dr. Diego Jarquin Photo"  width="180px" style="float: right" />
 Dr. Diego Jarquin completed his PhD in Statistics at the University of Postgraduate Education (Colegio de Postgraduados, Mexico), in 2012. After completing his PhD, he continued his training as Postdoctoral Associate at the University of Alabama at Birmingham (UAB, USA) for one year (developing genomic prediction models accounting for the genotype-by-environmental interaction G×E) and at the University of Nebraska-Lincoln (UNL, USA) for three years (working on the optimization of genomic selection on soybean and maize). In 2017 he was appointed as Research Assistant Professor in the Department of Agronomy and Horticulture at the University of Nebraska-Lincoln, and in 2021 Dr. Jarquin was promoted to Research Associate Professor. Currently, Dr. Jarquin is an assistant professor in the Agronomy Department working in the area of Integration and Application of Artificial Intelligence and Omics in Plant Breeding at the University of Florida. In 2020, Dr. Jarquin was awarded with the Early Career Scientists Award by the National Association of Plant Breeding (NAPB) that recognizes a young scientist who is active in the plant breeding field. Also, since 2016, Dr. Jarquin belongs to the National System of Researchers (Level I) Mexico City, Mex (member in the Area of Physics, Mathematics and Earth Sciences).
 <br/><br/><br/>
