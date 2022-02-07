@@ -49,30 +49,31 @@ Dr. Diego Jarquin completed his PhD in Statistics at the University of Postgradu
 <img src="/img/2022_Huirong Gao.jpg" alt="Dr. Huirong Gao Photo"  width="180px" style="float: left" />
 Dr. Huirong Gao grew up in a small village in the countryside and developed a fascination with plants as a child. This led her to pursue her first degree from Beijing Agricultural University, now known as China Agricultural University, with a major in plant pathology. She went on to obtain a doctorate in plant biology from the University of Rhode Island. Following her studies, she was a research associate at the Noble Foundation in Oklahoma. Prior to joining Corteva in 2001, she was at the University of California, Berkeley working on a bacterial pathogen that causes blight disease in walnuts. Her passion is to find ways to improve plant health and to help plants tolerate various stresses. Her research is mostly focusing on 1) Improving genome editing efficiency in corn, soybean, wheat, canola and other crops; 2) Piloting company's newly developed CRISPR-Cas with plant traits of agronomic importance; 3) Editting target genes for product development; 4) Collaborating with internal groups and external organizations on various genome editing projects through Open Innovation. 
 
-<br/><br/><br/><br/>
+<br/><br/><br/>
+
 <hr style="clear: both;" />
 # Abstract Speakers
 <hr style="clear: both;" />
-## Dr. James Birchler <br/>
+### Dr. James Birchler <br/>
 #### *Professor at the University of Missouri* <br/>
-<br/><br/>
+<br/>
 <img src="/img/2022_James Birchler.jpg" alt="Dr. James Birchler Photo"  width="180px" style="float: left" />
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
-## Dr. Chong Teng <br/>
+### Dr. Chong Teng <br/>
 #### *Postdoc at the Donald Danforth Plant Science Center* <br/>
-<br/><br/>
+<br/>
 <img src="/img/Chong Teng_2022.jpg" alt="Dr. Chong Teng Photo"  width="180px" style="float: left" />
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
-## Duy Trinh <br/>
+### Duy Trinh <br/>
 #### *Graduate student in Plant Science at the University of Missouri* <br/>
-<br/><br/>
+<br/>
 <img src="/img/Trinh Duy_2022.jpg" alt="Duy Trinh Photo"  width="180px" style="float: left" />
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
-## Hany Hassan Abdelhamid Badr <br/>
+### Hany Hassan Abdelhamid Badr <br/>
 #### *Master Student & Specialist of drug control and research at National Organization for drug control of research* <br/>
-<br/><br/>
+<br/>
 <img src="/img/Hassan_2022.jpg" alt="Hassan Photo"  width="180px" style="float: left" />
 
