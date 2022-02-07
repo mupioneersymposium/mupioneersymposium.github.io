@@ -56,20 +56,23 @@ Dr. Huirong Gao grew up in a small village in the countryside and developed a fa
 <hr style="clear: both;" />
 ### Dr. James Birchler <br/>
 #### *Professor at the University of Missouri* <br/>
-<img src="/img/2022_James Birchler.jpg" alt="Dr. James Birchler Photo"  width="180px" style="float: middle" />
+<img src="/img/2022_James Birchler.jpg" alt="Dr. James Birchler Photo"  width="180px" style="float: left" />
+Dr. James Birchler is a professor at the University of Missouri.
 <br/><br/><br/>
 
 ### Dr. Chong Teng <br/>
 #### *Postdoc at the Donald Danforth Plant Science Center* <br/>
 <img src="/img/Chong Teng_2022.jpg" alt="Dr. Chong Teng Photo"  width="180px" style="float: right" />
+Dr. Chong Teng is a postdoc at the Donald Danforth Plant Science Center.
 <br/><br/><br/>
 
 ### Duy Trinh <br/>
 #### *Graduate student in Plant Science at the University of Missouri* <br/>
 <img src="/img/Trinh Duy_2022.jpg" alt="Duy Trinh Photo"  width="180px" style="float: left" />
+Duy Trinh is a graduate student in Plant Science at the University of Missouri.
 <br/><br/><br/>
 
 ### Hany Hassan Abdelhamid Badr <br/>
 #### *Master Student & Specialist of drug control and research at National Organization for drug control of research* <br/>
 <img src="/img/Hassan_2022.jpg" alt="Hassan Photo"  width="180px" style="float: left" />
-
+Hany Hassan Abdelhamid Badr is a master student & Specialist of drug control and research at the National Organization for drug control of research.
