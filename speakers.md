@@ -56,7 +56,7 @@ Dr. Huirong Gao grew up in a small village in the countryside and developed a fa
 <hr style="clear: both;" />
 ### Dr. James Birchler <br/>
 #### *Professor at the University of Missouri* <br/>
-<img src="/img/2022_James Birchler.jpg" alt="Dr. James Birchler Photo"  width="180px" style="float: center" />
+<img src="/img/2022_James Birchler.jpg" alt="Dr. James Birchler Photo"  width="180px" style="float: middle" />
 <br/><br/><br/>
 
 ### Dr. Chong Teng <br/>
