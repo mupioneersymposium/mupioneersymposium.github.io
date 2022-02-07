@@ -61,7 +61,7 @@ Dr. Huirong Gao grew up in a small village in the countryside and developed a fa
 
 ### Dr. Chong Teng <br/>
 #### *Postdoc at the Donald Danforth Plant Science Center* <br/>
-<img src="/img/Chong Teng_2022.jpg" alt="Dr. Chong Teng Photo"  width="180px" style="float: left" />
+<img src="/img/Chong Teng_2022.jpg" alt="Dr. Chong Teng Photo"  width="180px" style="float: right" />
 <br/><br/><br/>
 
 ### Duy Trinh <br/>
