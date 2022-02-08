@@ -71,4 +71,4 @@ Dr. Huirong Gao grew up in a small village in the countryside and developed a fa
 
 ### Hany Hassan Abdelhamid Badr <br/>
 #### *Master Student & Specialist of drug control and research at National Organization for drug control of research* <br/>
-<img src="/img/Hassan_2022.jpg" alt="Hassan Photo"  width="180px" style="float: middle" />
+<img src="/img/Hany_2022.jpg" alt=" Hany Hassan Abdelhamid Badr Photo"  width="180px" style="float: middle" />
