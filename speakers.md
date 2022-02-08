@@ -7,7 +7,7 @@ layout: regular
 <hr style="clear: both;" />
 ## Dr. Edward Coe <br/>
 #### *Professor Emeritus, Plant Science & Technology, University of Missouri* <br/>
-#### <a href="https://ipg.missouri.edu/faculty/coe.cfm" target="_blank"> *Website - Dr. Edward Coee* </a>
+#### <a href="https://ipg.missouri.edu/faculty/coe.cfm" target="_blank"> *Website - Dr. Edward Coe* </a>
 <img src="/img/2022_Ed Coe.jpg" alt="Dr. Edward Coe Photo" width="180px" style="float: left" /> 
 Dr. Coe learned maize genetics from Dr. Charles Burnham at the University of Minnesota during B.S. and M.S. studies there. His Ph.D. at the University of Illinois was with Dr. John Laughnan (whose mentor was Dr. Lewis J. Stadler at the University of Missouri). At Illinois, in addition to Laughnan, Dr. Marcus Rhoades was a senior mentor. After a postdoc with Ernest G. Anderson at Caltech Coe joined the USDA-Agricultural Research Service and the University of Missouri, where he is currently Professor Emeritus of Plant Sciences. His research has contributed to sequencing of the genome and database development, and to anthocyanin biosynthesis, haploidy, epigenetics, and extrachromosomal inheritance. He is author or co-author of multiple refereed journal articles, and co-edited the noteworthy book, Mutants of Maize. Coe for 26 years was editor of the Maize Genetics Cooperation Newsletter (1974-2000). His honors include the prestigious Thomas Hunt Morgan Award from the Genetics Society of America in 1992, and others.
 <br/><br/><br/>
@@ -70,5 +70,5 @@ Dr. Huirong Gao grew up in a small village in the countryside and developed a fa
 <br/><br/><br/>
 
 ### Hany Hassan Abdelhamid Badr <br/>
-#### *Master Student & Specialist of drug control and research at National Organization for drug control of research, Giza, Egypt* <br/>
+#### *Graduate Student & Specialist of drug control and research at National Organization for drug control of research, Giza, Egypt* <br/>
 <img src="/img/Hany_2022.jpg" alt=" Hany Hassan Abdelhamid Badr Photo"  width="180px" style="float: middle" />
