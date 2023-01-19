@@ -16,8 +16,7 @@ Blake Meyers is a Member & Principal Investigator at the Donald Danforth Plant S
 #### *Distinguished Professor and Geneticist and Director of the Center for Plant Cell Biology, University of California-Riverside* <br/>
 #### <a href="https://profiles.ucr.edu/app/home/profile/serres" target="_blank"> *Website - Dr. Julia Bailey-Serres* </a>
 <img src="/img/2023_JuliaBailey-Serres.jpg" alt="Dr. Julia Bailey-Serres Photo"  width="180px" style="float: right" /> 
-Dr. Tim Kelliher has a B.A in Biology from Swarthmore College in Pennsylvania. During college he studied leaf cell fate specification under Professor Scott Poethig and Dr. Stuart Gillmor at the University of Pennsylvania, and then studied germinal cell fate acquisition in Drosophila under Professor Steven DiNardo.  He has a Ph.D. in Biology from Stanford University, where he studied with Professor Virginia Walbot the topic of reproductive cell fate specification in maize. He joined Syngenta in 2013 and cloned the haploid inducer gene in maize MATRILINEAL and used this gene to developed haploid induction in rice and other crops. He then developed a method of elite germplasm editing while producing non-transgenic doubled haploids (HI-Edit). He is a Science Fellow at Syngenta and run the Breeding Technology Group in Research Triangle Park, North Carolina and he is a science leader of two research programs (Genome Editing Application Technologies, and New Innovation).
-<br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <hr style="clear: both;" />
 # Invited Speakers
@@ -35,7 +34,7 @@ Dr. Jessica Rutkoski received her Bachelor’s of Science degree in Genetics fro
 #### *Assistant Professor, School of Integrative Plant Science Plant Biology Section, Cornell University* <br/>
 #### <a href="https://cals.cornell.edu/gaurav-moghe" target="_blank"> *Website - Dr. Gaurav Moghe* </a>
 <img src="/img/2023_GauravMoghe.jpg" alt="Dr. Gaurav Moghe Photo"  width="180px" style="float: left" />
-<br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## Dr. Shawn Thatcher <br/>
 #### *Research Scientist, Corteva Agriscience* <br/>
