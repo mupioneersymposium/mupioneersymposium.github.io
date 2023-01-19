@@ -5,30 +5,32 @@ layout: regular
 <hr style="clear: both;" />
 # Keynote Speakers
 <hr style="clear: both;" />
-## Dr. Edward Coe <br/>
-#### *Professor Emeritus, Plant Science & Technology, University of Missouri* <br/>
-#### <a href="https://ipg.missouri.edu/faculty/coe.cfm" target="_blank"> *Website - Dr. Edward Coe* </a>
-<img src="/img/2022_Ed Coe.jpg" alt="Dr. Edward Coe Photo" width="180px" style="float: left" /> 
-Dr. Coe learned maize genetics from Dr. Charles Burnham at the University of Minnesota during B.S. and M.S. studies there. His Ph.D. at the University of Illinois was with Dr. John Laughnan (whose mentor was Dr. Lewis J. Stadler at the University of Missouri). At Illinois, in addition to Laughnan, Dr. Marcus Rhoades was a senior mentor. After a postdoc with Ernest G. Anderson at Caltech Coe joined the USDA-Agricultural Research Service and the University of Missouri, where he is currently Professor Emeritus of Plant Sciences. His research has contributed to sequencing of the genome and database development, and to anthocyanin biosynthesis, haploidy, epigenetics, and extrachromosomal inheritance. He is author or co-author of multiple refereed journal articles, and co-edited the noteworthy book, Mutants of Maize. Coe for 26 years was editor of the Maize Genetics Cooperation Newsletter (1974-2000). His honors include the prestigious Thomas Hunt Morgan Award from the Genetics Society of America in 1992, and others.
+## Dr. Blake Meyers <br/>
+#### *Member and Principal Investigator at the Donald Danforth Plant Science Center* <br/>
+#### <a href="https://www.danforthcenter.org/our-work/principal-investigators/blake-meyers/" target="_blank"> *Website - Dr. Blake Meyers* </a>
+<img src="/img/2022_Ed Coe.jpg" alt="Dr. Blake Meyers Photo" width="180px" style="float: left" /> 
+Blake Meyers is a Member & Principal Investigator at the Donald Danforth Plant Science Center in St. Louis, and he is a Professor in the Division of Plant Science and Technology at the University of Missouri - Columbia. He formerly held the Edward F. and Elizabeth Goodman Rosenberg professorship at the University of Delaware, where his research group was from 2002 to 2015. He was elected as a Fellow of the American Association for the Advancement of Science (AAAS) in 2012, and a Fellow of the American Society of Plant Biologists (ASPB) in 2017, the same year he was awarded the Charles Albert Shull Award by the ASPB for outstanding investigations in the field of plant biology. He was elected to the US National Academy of Sciences in 2022. After serving on the editorial board since 2008, Blake became the Editor-in-Chief of The Plant Cell in January 2020. Work in his lab addresses the biological functions, biogenesis, genomic impact, and evolution of small RNAs in diverse plant species, using combination of genomic and molecular genetics approaches, with a focus on phased, secondary siRNAs (“phasiRNAs”).
 <br/><br/><br/>
 
-## Dr. Tim Kelliher <br/>
-#### *Science Fellow, Syngenta / Adjunct Assistant Professor, Plant & Microbial Biology, North Carolina State University* <br/>
+## Dr. Julia Bailey-Serres <br/>
+#### *Distinguished Professor and Geneticist and Director of the Center for Plant Cell Biology, University of California-Riverside* <br/>
 #### <a href="https://cals.ncsu.edu/plant-and-microbial-biology/people/tjkellih/" target="_blank"> *Website - Dr. Tim Kelliher* </a>
 <img src="/img/2022_Tim Kelliher.jpg" alt="Dr. Tim Kelliher Photo"  width="180px" style="float: right" /> 
 Dr. Tim Kelliher has a B.A in Biology from Swarthmore College in Pennsylvania. During college he studied leaf cell fate specification under Professor Scott Poethig and Dr. Stuart Gillmor at the University of Pennsylvania, and then studied germinal cell fate acquisition in Drosophila under Professor Steven DiNardo.  He has a Ph.D. in Biology from Stanford University, where he studied with Professor Virginia Walbot the topic of reproductive cell fate specification in maize. He joined Syngenta in 2013 and cloned the haploid inducer gene in maize MATRILINEAL and used this gene to developed haploid induction in rice and other crops. He then developed a method of elite germplasm editing while producing non-transgenic doubled haploids (HI-Edit). He is a Science Fellow at Syngenta and run the Breeding Technology Group in Research Triangle Park, North Carolina and he is a science leader of two research programs (Genome Editing Application Technologies, and New Innovation).
 <br/><br/><br/>
 
-## Dr. Yunde Zhao <br/>
-#### *Professor, Section of Cell and Developmental Biology, University of California San Diego (UCSD)* <br/>
-#### <a href="https://biology.ucsd.edu/research/faculty/y3zhao" target="_blank"> *Website - Dr. Yunde Zhao* </a>
-<img src="/img/2022_Yunde Zhao.jpg" alt="Dr. Yunde Zhao Photo"  width="180px" style="float: right" /> 
-Dr. Yunde Zhao received his Ph.D. in Biochemistry from the University of Michigan, where he studied nitric oxide signaling mechanisms. Dr. Zhao received his postdoctoral training in the field of plant molecular genetics at the Salk Institute, where he was supported by a postdoctoral fellowship from the Howard Hughes Medical Institute and the Life Sciences Research Foundation. Currently, Dr. Yunde Zhao is a professor in the Section of Cell and Developmental Biology, University of California San Diego (UCSD). He is also the director of Plant Biology of Food & Fuel for the 21st Century, UCSD. Dr. Zhao is the Editor-in-Chief of Plant Physiology. Dr. Zhao’s research is centered on two areas: 1) Development of gene editing technologies; 2) Elucidation of the molecular mechanisms by which auxin regulates plant development. Dr. Zhao invented several technologies including ribozyme-based guide RNA production, RUBY reporter for gene expression and plant transformation, and the Transgene-Killer CRISPR, which enables efficient isolation of edited, transgene free plants. Dr. Zhao played a leading role in solving the complete auxin biosynthetic pathway in plants.
-<br/><br/><br/><br/>
-
 <hr style="clear: both;" />
 # Invited Speakers
 <hr style="clear: both;" />
+
+## Dr. Jessica Rutkoski <br/>
+#### *Assistant Professor, Crop Sciences Department, University of Illinois Urbana-Champaign* <br/>
+#### <a href="https://biology.ucsd.edu/research/faculty/y3zhao" target="_blank"> *Website - Dr. Jessica Rutkoski* </a>
+<img src="/img/2022_Yunde Zhao.jpg" alt="Dr. Jessica Rutkoski Photo"  width="180px" style="float: right" /> 
+Dr. Jessica Rutkoski is a small grains breeder and a quantitative geneticist with a passion for putting the principles and techniques of quantitative genetics and statistics to use in applied breeding in order to accelerate rates of genetic gain in ways that benefit people and the environment. Jessica’s main goals are to a) develop winter wheat (Triticum aestivum L.) varieties that will help improve the profitability of wheat production in Illinois and surrounding states, b) improve levels of quantitative disease resistance in small grains, and c) develop and deploy new breeding methods to accelerate rates of genetic gain in wheat and other self-pollinated crops.
+Dr. Jessica Rutkoski received her Bachelor’s of Science degree in Genetics from the University of Wisconsin-Madison in 2009 and then went on to get her Ph.D. at Cornell University under the direction of Small Grains Breeder Dr. Mark Sorrells.  In 2014, Jessica completed her Ph.D. and then continued on at Cornell University as an assistant professor where her mission was to innovate and transfer advanced breeding methods like genomic selection to wheat breeding programs globally. In doing so, Jessica conducted her research in collaboration with the International Maize and Wheat Improvement Center (CIMMYT), headquartered in Mexico, where she worked as an Adjunct Associate Scientist in the Global Wheat Breeding Program. In pursuit of new challenges and broader impact, in 2016, Dr. Rutkoski began working as a Scientist in the plant breeding division at the International Rice Research Institute (IRRI), located in the Philippines. Jessica’s role at IRRI was to improve rice breeding efficiency through more effective use of data and analytical techniques.
+<br/><br/><br/><br/>
+
 ## Dr. Sona Pandey <br/>
 #### *Principal Investigator, Donald Danforth Plant Science Center / Adjunct Professor, Department of Biology, Washington University (ST.Louis)* <br/>
 #### <a href="https://www.danforthcenter.org/our-work/principal-investigators/sona-pandey/" target="_blank"> *Website - Dr. Sona Pandey* </a>
@@ -50,25 +52,3 @@ Dr. Diego Jarquin completed his PhD in Statistics at the University of Postgradu
 Dr. Huirong Gao grew up in a small village in the countryside and developed a fascination with plants as a child. This led her to pursue her first degree from Beijing Agricultural University, now known as China Agricultural University, with a major in plant pathology. She went on to obtain a doctorate in plant biology from the University of Rhode Island. Following her studies, she was a research associate at the Noble Foundation in Oklahoma. Prior to joining Corteva in 2001, she was at the University of California, Berkeley working on a bacterial pathogen that causes blight disease in walnuts. Her passion is to find ways to improve plant health and to help plants tolerate various stresses. Her research is mostly focusing on 1) Improving genome editing efficiency in corn, soybean, wheat, canola and other crops; 2) Piloting company's newly developed CRISPR-Cas with plant traits of agronomic importance; 3) Editting target genes for product development; 4) Collaborating with internal groups and external organizations on various genome editing projects through Open Innovation. 
 
 <br/><br/><br/>
-
-<hr style="clear: both;" />
-# Abstract Speakers
-<hr style="clear: both;" />
-### Dr. James Birchler <br/>
-#### *Professor at the University of Missouri* <br/>
-<img src="/img/2022_James Birchler.jpg" alt="Dr. James Birchler Photo"  width="180px" style="float: middle" />
-<br/><br/><br/>
-
-### Dr. Chong Teng <br/>
-#### *Postdoc at the Donald Danforth Plant Science Center* <br/>
-<img src="/img/Chong Teng_2022.jpg" alt="Dr. Chong Teng Photo"  width="180px" style="float: middle" />
-<br/><br/><br/>
-
-### Duy Trinh <br/>
-#### *Graduate student in Plant Science at the University of Missouri* <br/>
-<img src="/img/Trinh Duy_2022.jpg" alt="Duy Trinh Photo"  width="180px" style="float: middle" />
-<br/><br/><br/>
-
-### Hany Hassan Abdelhamid Badr <br/>
-#### *Graduate Student & Specialist of drug control and research at National Organization for drug control of research, Giza, Egypt* <br/>
-<img src="/img/Hany_2022.jpg" alt=" Hany Hassan Abdelhamid Badr Photo"  width="180px" style="float: middle" />
