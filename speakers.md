@@ -42,4 +42,5 @@ Gaurav Moghe is working as an Asssistant Professor at School of Intergrative Pla
 #### *Research Scientist, Corteva Agriscience* <br/>
 #### <a href="https://www.linkedin.com/in/shawn-thatcher-68745aa1/" target="_blank"> *Website - Dr. Shawn Thatcher* </a>
 <img src="/img/2023_ShawnThatcher.png" alt="Dr. Shawn Thatcher Photo"  width="180px" style="float: right" />
+Shawn Thatcher is working as a Research Scientist at Corteva Agriscience. Having completed his Ph.D. from University of Delaware in 2013, Shawn later joined Corteva Agriscience.
 <br/><br/><br/>
