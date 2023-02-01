@@ -29,14 +29,14 @@ Julia Bailey-Serres is a Distinguished Professor and Geneticist along with being
 <img src="/img/2023_JessicaRutkoski.png" alt="Dr. Jessica Rutkoski Photo"  width="180px" style="float: right" /> 
 Dr. Jessica Rutkoski is a small grains breeder and a quantitative geneticist with a passion for putting the principles and techniques of quantitative genetics and statistics to use in applied breeding in order to accelerate rates of genetic gain in ways that benefit people and the environment. Jessica’s main goals are to a) develop winter wheat (Triticum aestivum L.) varieties that will help improve the profitability of wheat production in Illinois and surrounding states, b) improve levels of quantitative disease resistance in small grains, and c) develop and deploy new breeding methods to accelerate rates of genetic gain in wheat and other self-pollinated crops.
 Dr. Jessica Rutkoski received her Bachelor’s of Science degree in Genetics from the University of Wisconsin-Madison in 2009 and then went on to get her Ph.D. at Cornell University under the direction of Small Grains Breeder Dr. Mark Sorrells.  In 2014, Jessica completed her Ph.D. and then continued on at Cornell University as an assistant professor where her mission was to innovate and transfer advanced breeding methods like genomic selection to wheat breeding programs globally. In doing so, Jessica conducted her research in collaboration with the International Maize and Wheat Improvement Center (CIMMYT), headquartered in Mexico, where she worked as an Adjunct Associate Scientist in the Global Wheat Breeding Program. In pursuit of new challenges and broader impact, in 2016, Dr. Rutkoski began working as a Scientist in the plant breeding division at the International Rice Research Institute (IRRI), located in the Philippines. Jessica’s role at IRRI was to improve rice breeding efficiency through more effective use of data and analytical techniques.
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
 ## Dr. Gaurav Moghe <br/>
 #### *Assistant Professor, School of Integrative Plant Science Plant Biology Section, Cornell University* <br/>
 #### <a href="https://cals.cornell.edu/gaurav-moghe" target="_blank"> *Website - Dr. Gaurav Moghe* </a>
 <img src="/img/2023_GauravMoghe.jpg" alt="Dr. Gaurav Moghe Photo"  width="180px" style="float: left" />
 Gaurav Moghe is working as an Asssistant Professor at School of Intergrative Plant Science Plant Biology Section, Cornell University. Gaurav completed his dual Ph.D. from Michigan State University in Genetics and Quantitative Biology in 2013 and is the recipient of the ASPB Early Career award (2018). Gaurav was recently selected as a TW Turner Fellowship Mentor and a Cornell Atkinson Center for Sustainability Faculty Fellow. Gaurav's research group works on investigating the origins of biological complexity using plant specialized metabolism as a model. Their research uses a variety of model and non-model plant species, and using both experimental and computational approaches. The findings of his research work have real-world applications such as in agriculture, nutrition and medicine.
-<br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/>
 
 ## Dr. Shawn Thatcher <br/>
 #### *Research Scientist, Corteva Agriscience* <br/>
