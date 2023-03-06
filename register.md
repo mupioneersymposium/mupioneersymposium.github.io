@@ -5,8 +5,7 @@ layout: regular
 <hr style="clear: both;" />
 # Registration 
 <hr style="clear: both;" />
-**Registration is open for the 7<sup>th</sup> Annual MU Plant Research Symposium** <br />
-**Deadline: February 27 2023**
+**Registration is closed for the 7<sup>th</sup> Annual MU Plant Research Symposium** <br />
 <hr style="clear: both;" />
 
 **Link to join Webinar**
