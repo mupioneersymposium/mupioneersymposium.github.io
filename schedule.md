@@ -11,5 +11,5 @@ layout: regular
 <br /><br />
 **Link to join Webinar**
 <br />
-<p><a href="https://umsystem.zoom.us/j/94614152568"></a></p>
+<p><a href="https://umsystem.zoom.us/j/94614152568">https://umsystem.zoom.us/j/94614152568</a></p>
 
