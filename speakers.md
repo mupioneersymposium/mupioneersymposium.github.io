@@ -44,3 +44,9 @@ Gaurav Moghe is working as an Asssistant Professor at School of Intergrative Pla
 <img src="/img/2023_ShawnThatcher.png" alt="Dr. Shawn Thatcher Photo"  width="180px" style="float: right" />
 Shawn Thatcher is working as a Research Scientist at Corteva Agriscience. Shawn received a Ph.D. in Biochemistry from the University of Delaware, studying the role of small RNAs in Arabidopsis abiotic stress and senescence. He then moved on to a post-doc at DuPont Pioneer (now Corteva Agriscience), employing computational biology to understand the genetic regulation and impacts of alternative splicing during maize drought responses. He currently leads computational discovery efforts to discover and characterize novel disease resistance genes for maize and soybean.
 <br/><br/><br/>
+
+<br />
+**Link to join Webinar**
+<br />
+<p><a href="https://umsystem.zoom.us/j/94614152568">https://umsystem.zoom.us/j/94614152568</a></p>
+<br />
